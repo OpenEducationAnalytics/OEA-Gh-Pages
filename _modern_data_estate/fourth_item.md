@@ -2,4 +2,4 @@
 title: Modern Data Estate
 image: assets/imgs/ic_gear.svg
 ---
-Use open source assets and the OEA architecture set up your data estate quickly and easily.
+Leverage the OEA architecture and assets to set up your data estate quickly and easily.
