@@ -1108,6 +1108,14 @@ p {
   width: 100%;
 }
 
+.header-banner-image {
+  height: 500px !important;
+}
+
+footer {
+  background-color: #f8f8f8;
+}
+
 .nav-link {
   color: #000;
   padding: 15px;
@@ -1176,7 +1184,18 @@ footer img {
 .mt-10 {
   margin-top: 5rem;
 }
+.mt-10-rev {
+  margin-top: 5rem;
+}
+.mt-10-alt {
+  margin-top: 5rem;
+}
 
+@media (max-width: 1400px) {
+  .mt-10-alt {
+    margin-top: 3rem;
+  }
+}
 .pt-10 {
   margin-top: 5rem;
 }

@@ -12,7 +12,7 @@ layout: default
                 <div class="col-md-8 col-lg-6 col-sm-10 col-xl-6 d-block d-lg-none d-xl-none mt-4 tex-md-center">
                     <img src="assets/imgs/img_landing_page-header.svg" alt="Landing page header image"
                          aria-label="Landing page header image"
-                         class="img-fluid w-70"/>
+                         class="img-fluid"/>
                 </div>
 
                 <div class="col-md-11 col-11 col-sm-10 col-lg-6 col-xl-6 mt-10-alt">
@@ -139,6 +139,40 @@ layout: default
             </div>
         </div>
     </section>
+
+
+    <section class="challenges-section text-center">
+        <div class="holder">
+            <div class="container">
+                <div class="row">
+                    <ul class="list-unstyled">
+                        <li>
+                            <h4> Education systems in OEA are collaborating to develop</h4>
+                        </li>
+                    </ul>
+                </div>
+                <div class="row justify-content-center">
+                    <div class="col-md-12 col-sm-10 col-xl-10 col-lg-10">
+                        <div class="row justify-content-center">
+                            {% for item in site.data.oea_applications %}
+
+                            <div class="col-10 col-sm-10 col-md-6 col-lg-4 col-xl-4">
+                                <div class="mini-card text-start d-flex">
+                                    <span class="border border-success border-3"></span>
+                                    <p class="px-2">
+                                        {{item.title}}
+                                    </p>
+                                </div>
+                            </div>
+
+                            {% endfor %}
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
 
     <!--How OEA can modernize data estate section-->
     <div class="w-100">
@@ -474,7 +508,7 @@ layout: default
             </div>
         </div>
     </section>
-    <div class="mb-3">
+    <div class="">
         <img src="{{ site.baseurl }}/assets/imgs/curved_yellow_footer.png" class="img-fluid w-100">
     </div>
 
