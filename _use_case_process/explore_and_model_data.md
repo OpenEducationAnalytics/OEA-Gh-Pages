@@ -5,7 +5,7 @@ step: 3
 ---
 **Build off the work of the Open Education Analytics Community**
 
-OEA GitHub includes open-source data <a href="https://github.com/microsoft/OpenEduAnalytics/tree/main/modules" target="_blank">modules</a> for common education datasets. You can connect many of your datasets quickly, combine them with other data, and move to data visualisation and insights quickly.
+OEA GitHub includes open source data <a href="https://github.com/microsoft/OpenEduAnalytics/tree/main/modules" target="_blank">modules</a> for common education datasets. You can connect many of your datasets quickly, combine them with other data, and move to data visualisation and insights quickly.
 
 Use OEA <a href="https://github.com/microsoft/OpenEduAnalytics/tree/main/packages" target="_blank">packages</a> to develop models that solve common education challenges like predicting at risk or vulnerable students.
 
