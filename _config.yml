@@ -29,9 +29,12 @@ baseurl: "/OpenEduAnalytics" # the subpath of your site, e.g. /blog
 url: "https://ivybarley.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 =======
 url: "https://microsoft.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+<<<<<<< HEAD
 >>>>>>> parent of cf92c47 (GH Pages)
 =======
 url: "https://microsoft.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+>>>>>>> parent of cf92c47 (GH Pages)
+=======
 >>>>>>> parent of cf92c47 (GH Pages)
 twitter_username: jekyllrb
 github_username:  jekyll
