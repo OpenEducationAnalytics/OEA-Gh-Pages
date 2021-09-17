@@ -25,7 +25,11 @@ logo: /assets/imgs/img_oea_logo.png
 
 baseurl: "/OpenEduAnalytics" # the subpath of your site, e.g. /blog
 <<<<<<< HEAD
+<<<<<<< HEAD
 url: "https://ivybarley.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+=======
+url: "https://microsoft.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+>>>>>>> parent of cf92c47 (GH Pages)
 =======
 url: "https://microsoft.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 >>>>>>> parent of cf92c47 (GH Pages)
