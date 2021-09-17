@@ -78,9 +78,11 @@ permalink: /inspiration/
                                 <small class="text-muted">{{ post.date | date: "%-d %B %Y" }}</small>
                             </li>
                             <li {%if category[0] !='Blog' %} class="d-none" {% endif %}>
-                                <p>
-                                    {{post.excerpt | strip_html | strip_newlines | truncate: 126}}
-                                </p>
+                                <a href="{{ site.baseurl }}{{post.url}}">
+                                    <p>
+                                        {{post.excerpt | strip_html | strip_newlines | truncate: 126}}
+                                    </p>
+                                </a>
                             </li>
                             <li {%if category[0] !='Newsletter' %} class="d-none" {% endif %}>
                                 <p>
