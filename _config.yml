@@ -23,6 +23,7 @@ email: your-email@example.com
 description: Open Education Analytics is an open community developing modern data intelligence capabilities for global education.
 logo: /assets/imgs/img_oea_logo.png
 
+<<<<<<< HEAD
 baseurl: "/OpenEduAnalytics" # the subpath of your site, e.g. /blog
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -57,6 +58,10 @@ url: "https://microsoft.github.io" # the base hostname & protocol for your site,
 >>>>>>> parent of cf92c47 (GH Pages)
 =======
 >>>>>>> parent of cf92c47 (GH Pages)
+=======
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://openeducationanalytics.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+>>>>>>> parent of 2ad632a (GH Pages Files)
 twitter_username: jekyllrb
 github_username:  jekyll
 
