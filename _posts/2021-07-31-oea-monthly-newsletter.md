@@ -9,7 +9,7 @@ image: /assets/imgs/posts/img_july_2021_newsletter.png
 
 ##### OEA Overview
 
-Open Education Analytics (OEA) is a community of education systems, coordinated by Microsoft Education, collaborating to develop open-sourced data analytics solutions for the education sector built on Azure Synapse Analytics and PowerBI.
+Open Education Analytics (OEA) is a community of education systems, coordinated by Microsoft Education, collaborating to develop open sourced data analytics solutions for the education sector built on Azure Synapse Analytics and PowerBI.
 
 - GitHub repository: <a href="https://github.com/microsoft/OpenEduAnalytics" target="_blank">https://github.com/microsoft/OpenEduAnalytics</a>
 - OEA Overview video: <a href="https://www.youtube.com/watch?v=efNYbS4sC4g" target="_blank">OEA Overview - YouTube</a>
@@ -28,16 +28,16 @@ This dashboard, which will soon be a module published on the OEA GitHub, combine
 >
 > ##### OEA Community Spotlight
 >
-> Building a strong community is at the center of all successful open-source projects. OEA is designed in partnership with education customer communities worldwide who are already contributing back to OEA. Our initial worldwide “Project Constellation” community is expanding to regional OEA Communities in the US, Australia, Finland and worldwide.
+> Building a strong community is at the center of all successful open source projects. OEA is designed in partnership with education customer communities worldwide who are already contributing back to OEA. Our initial worldwide “Project Constellation” community is expanding to regional OEA Communities in the US, Australia, Finland and worldwide.
 >
 > We work these communities directly and through our partners to identify their data and AI pain points, define common use cases, build data reports and ML models, and share great examples developed by community members. We also have an upcoming Deep Dive Synapse training for all our partners to position them to implement OEA for global education systems.
 
 
 ##### Data Engineering
 
-We have partnered with the Nebraska Department of Education on their statewide longitudinal data plan for rapid data modernization to prioritize education equity. With COVID widening the disparities among students in rural areas and those in urban areas, this project sought to democratize analytics especially for small rural districts across the state. This project dramatically reduced the time to value for analytics. Through this work, we are also developing an open-source Ed-Fi module for the OEA GitHub, so that other OEA community members can use the assets developed through the Nebraska project.
+We have partnered with the Nebraska Department of Education on their statewide longitudinal data plan for rapid data modernization to prioritize education equity. With COVID widening the disparities among students in rural areas and those in urban areas, this project sought to democratize analytics especially for small rural districts across the state. This project dramatically reduced the time to value for analytics. Through this work, we are also developing an open source Ed-Fi module for the OEA GitHub, so that other OEA community members can use the assets developed through the Nebraska project.
 
-OEA is building open-source technical assets like the OEA standard reference architecture for education analytics on Synapse. Assets include setup scripts, notebooks, pipelines and PowerBI templates, which are all available for free on the OEA GitHub. Our OEA partners and community members will be contributing more assets to the repository.
+OEA is building open source technical assets like the OEA standard reference architecture for education analytics on Synapse. Assets include setup scripts, notebooks, pipelines and PowerBI templates, which are all available for free on the OEA GitHub. Our OEA partners and community members will be contributing more assets to the repository.
 
 <div class="container-wrapper text-center">
    <img src="{{ site.baseurl }}/assets/imgs/OEA_ref_arch_v0.4.png" class="img-fluid w-100" alt="The OEA Reference Architecture" />
