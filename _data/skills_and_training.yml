@@ -165,7 +165,7 @@
     - name: Machine learning fairness
       url: https://docs.microsoft.com/en-us/azure/machine-learning/concept-fairness-ml
       roles: [Data Analysts, Scientists, and Researcher]
-      description: Learn about machine learning fairness and how the Fairlearn open source Python package can help you assess and mitigate unfairness issues in machine learning models.
+      description: Learn about machine learning fairness and how the Fairlearn open-source Python package can help you assess and mitigate unfairness issues in machine learning models.
       image: ic_explore.svg
       alias: "DSDA R"
     - name: Create and use analytics reports with Power BI
