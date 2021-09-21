@@ -23,8 +23,8 @@ email: your-email@example.com
 description: Open Education Analytics is an open community developing modern data intelligence capabilities for global education.
 logo: /assets/imgs/img_oea_logo.png
 
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://openeducationanalytics.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/OpenEduAnalytics" # the subpath of your site, e.g. /blog
+url: "https://ivybarley.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
@@ -57,14 +57,20 @@ collections:
       - communicate_and_act.md
       - explore_and_model_data.md
   what_can_you_contribute:
-  best_practices_for_contributing:
-  new_skills_training:
     order:
-      - get_started.md
-      - define_the_process.md
-      - set_up_modern_data_estate.md
-      - communicate_and_act.md
-      - explore_and_model_data.md
+      - modules.md
+      - packages.md
+      - code_review.md
+      - documentation.md
+  best_practices_for_contributing:
+   order:
+      - first_item.md
+      - second_item.md
+      - third_item.md
+      - fourth_item.md
+      - fifth_item.md
+      - sixth_item.md
+      - seventh_item.md
 #    sort_by: step
 
 

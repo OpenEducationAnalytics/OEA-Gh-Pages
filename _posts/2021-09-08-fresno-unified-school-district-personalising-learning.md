@@ -3,7 +3,7 @@ layout: post
 title: "Fresno Unified School District: Personalising learning" 
 author: Author
 category: Blog
-image: /assets/imgs/posts/img_fresno_visual.png  
+image: /assets/imgs/img_landing_page_success_story_fresno.png  
 ---
 
 Fresno Unified School District serves about 71,000 students from preschool through secondary school in California. In general, these students come from economically challenged families, with 88.3%    of the district population receiving free or reduced-price lunches at school. The district wanted to embed personalised learning across schools to make sure they were addressing the unique needs of all of their students individually and to develop and nurture a culture of continuous improvement that would benefit their learners throughout their lives.

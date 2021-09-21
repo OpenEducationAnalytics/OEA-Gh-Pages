@@ -1,5 +1,5 @@
 ---
-title: 
+title:  
+step: 1                           
 ---
-Follow the module and package creation kits as well as the quality rubric provided for contributing each asset type.
-
+Review Microsoft’s  [Code of Conduct](https://opensource.microsoft.com/codeofconduct/) for open-source communities.

@@ -1,4 +1,5 @@
 ---
-title:                             
+title:    
+step: 5                   
 ---
-Review Microsoft’s  [Code of Conduct](https://opensource.microsoft.com/codeofconduct/) for open source communities.
+Engage with the OEA open-source community by creating a post in [Discussions](https://github.com/microsoft/OpenEduAnalytics/discussions) and responding to existing posts.

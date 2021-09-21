@@ -6,9 +6,27 @@
   width: 60% !important;
 }
 
+.w-20 {
+  width: 18% !important;
+}
+
+.text-black {
+  color: black !important;
+}
+
+.w-85 {
+  width: 85% !important;
+}
+
 .text-cta {
   font-weight: bold;
   text-decoration: none !important;
+  color: #065BFA;
+}
+
+.text-cta-underlined {
+  font-weight: bold;
+  text-decoration: underline !important;
   color: #065BFA;
 }
 
@@ -55,4 +73,5 @@
 .w-15 {
   width: 15% !important;
 }
-/*# sourceMappingURL=solution_partners.css.map */
+
+/*# sourceMappingURL=oea_partners.css.map */
