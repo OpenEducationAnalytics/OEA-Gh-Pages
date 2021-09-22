@@ -13,7 +13,7 @@ Open Education Analytics (OEA) is a community of education systems, coordinated 
 
 - GitHub repository: <a href="https://github.com/microsoft/OpenEduAnalytics" target="_blank">https://github.com/microsoft/OpenEduAnalytics</a>
 - OEA Overview video: <a href="https://www.youtube.com/watch?v=efNYbS4sC4g" target="_blank">OEA Overview - YouTube</a>
-<br/><br/>
+
 ##### Data Analytics and AI
 
 We are currently working with the Fresno Unified School District in California to build a hybrid student engagement dashboard.
@@ -23,7 +23,7 @@ We are currently working with the Fresno Unified School District in California t
 </div>
 
 This dashboard, which will soon be a package published on the OEA GitHub, combines data for student in-person attendance in school with their overall digital engagement across Fresno’s digital learning ecosystem (e.g. across all apps used by students for learning). This provides a more comprehensive view of student engagement in learning 24/7 than attendance data alone and ladders up to a long-term vision of student intervention targeting in the district.
-<br/><br/>
+
 >
 > ##### OEA Community Spotlight
 >
