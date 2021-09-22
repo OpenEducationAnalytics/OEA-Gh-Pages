@@ -13,7 +13,7 @@ Open Education Analytics (OEA) is a community of education systems, coordinated 
 
 - GitHub repository: <a href="https://github.com/microsoft/OpenEduAnalytics" target="_blank">https://github.com/microsoft/OpenEduAnalytics</a>
 - OEA Overview video: <a href="https://www.youtube.com/watch?v=efNYbS4sC4g" target="_blank">OEA Overview - YouTube</a>
-
+<br></br>
 ##### OEA Communities
 
 We are excited to announce our first official monthly OEA Global Community meeting series in October.  This community is an ongoing group of education systems who are working together as they implement modern data and AI approaches.  It is a small, private community comprised of institutions and large education systems discussing their work, sharing use cases, and developing thought leadership for the broader international education community. This meeting is the first in a series of monthly meetings where members can share implementation and use case examples, as well as learn about new open-source data services.   
@@ -23,12 +23,13 @@ Earlier in the month, we hosted the first United States chapter of the OEA Commu
 The Australian OEA Community also launched in June with 5 Australian states, as well as several Catholic Education systems in Australia. This community has focused on sharing use cases, approaches to data governance, and optimal ways to present data insights to teachers. 
 
 ##### New OEA Website
-We are thrilled about the launch of the new OEA Website, where all OEA resources, shared use cases, training, and Responsible AI concepts and practices are shared. Please take a moment to explore the new site and share it with your organization.
-
+We are thrilled about the launch of the new OEA Website, where all OEA resources, shared use cases, training, and Responsible AI concepts and practices are shared. 
 <div class="container-wrapper text-center">
    <img src="{{ site.baseurl }}/assets/imgs/img_new_oea-website.png" class="img-fluid w-100" alt="Home page of New OEA Website" />
    <figcaption class="mt-2">Figure 1: Home page of New OEA Website</figcaption>
 </div>
+Please take a moment to explore the new site and share it with your organization.
+
 
 >
 > ##### OEA Community Spotlight
