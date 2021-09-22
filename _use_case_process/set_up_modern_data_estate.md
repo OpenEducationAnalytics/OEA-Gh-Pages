@@ -19,7 +19,7 @@ You can setup this fully functional reference architecture (which includes test 
          </button>
       </a>
 
- 2. Download this repo to your azure clouddrive
+ 2. Download this repo to your Azure clouddrive
 ```
 cd clouddrive
 ```
