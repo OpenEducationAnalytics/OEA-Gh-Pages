@@ -33,7 +33,7 @@ This dashboard, which will soon be a package published on the OEA GitHub, combin
 > We work these communities directly and through our partners to identify their data and AI pain points, define common use cases, build data reports and ML models, and share great examples developed by community members. We also have an upcoming Deep Dive Synapse training for all our partners to position them to implement OEA for global education systems.
 
 
-##### Data Engineering
+##### OEA Tech: Helping Education Systems Build Their Modern Data Estate
 
 We have partnered with the Nebraska Department of Education on their statewide longitudinal data plan for rapid data modernization to prioritize education equity. With COVID widening the disparities among students in rural areas and those in urban areas, this project sought to democratize analytics especially for small rural districts across the state. This project dramatically reduced the time to value for analytics. Through this work, we are also developing an open-source Ed-Fi module for the OEA GitHub, so that other OEA community members can use the assets developed through the Nebraska project.
 
