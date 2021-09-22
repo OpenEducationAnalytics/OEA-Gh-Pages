@@ -14,7 +14,7 @@ Open Education Analytics (OEA) is a community of education systems, coordinated 
 - GitHub repository: <a href="https://github.com/microsoft/OpenEduAnalytics" target="_blank">https://github.com/microsoft/OpenEduAnalytics</a>
 - OEA Overview video: <a href="https://www.youtube.com/watch?v=efNYbS4sC4g" target="_blank">OEA Overview - YouTube</a>
 
-\
+
 
 ##### Data Analytics and AI
 
@@ -27,12 +27,14 @@ We are currently working with the Fresno Unified School District in California t
 This dashboard, which will soon be a package published on the OEA GitHub, combines data for student in-person attendance in school with their overall digital engagement across Fresno’s digital learning ecosystem (e.g. across all apps used by students for learning). This provides a more comprehensive view of student engagement in learning 24/7 than attendance data alone and ladders up to a long-term vision of student intervention targeting in the district.
 
 
+
 >
 > ##### OEA Community Spotlight
 >
 > Building a strong community is at the center of all successful open-source projects. OEA is designed in partnership with education customer communities worldwide who are already contributing back to OEA. Our initial worldwide “Project Constellation” community is expanding to regional OEA Communities in the US, Australia, Finland and worldwide.
 >
 > We work these communities directly and through our partners to identify their data and AI pain points, define common use cases, build data reports and ML models, and share great examples developed by community members. We also have an upcoming Deep Dive Synapse training for all our partners to position them to implement OEA for global education systems.
+
 
 
 ##### OEA Tech: Helping Education Systems Build Their Modern Data Estate
@@ -45,6 +47,7 @@ OEA is building open-source technical assets like the OEA standard reference arc
    <img src="{{ site.baseurl }}/assets/imgs/OEA_ref_arch_v0.4.png" class="img-fluid w-100" alt="The OEA Reference Architecture" />
    <figcaption class="mt-2">Figure 2: The OEA Reference Architecture</figcaption>
 </div>
+
 
 
 ##### Additional Resources
