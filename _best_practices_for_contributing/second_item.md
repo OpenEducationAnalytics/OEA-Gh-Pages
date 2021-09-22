@@ -1,5 +1,6 @@
 ---
 title: 
+step: 2
 ---
-Pull requests should always include a description of the proposed changes.
+Follow the guidelines and quality rubric provided for contributing each asset type.
 

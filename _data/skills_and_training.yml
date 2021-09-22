@@ -106,7 +106,7 @@
       description: Azure Synapse Analytics provides a relational big data store that can scale to Petabytes of data.
       image: ic_setup.svg
       alias: "DAE"
-    - name: Data integration at scale with Azure Data Factory or Azure Synapse Pipelin
+    - name: Data integration at scale with Azure Data Factory or Azure Synapse Pipeline
       url: https://docs.microsoft.com/en-us/learn/paths/data-integration-scale-azure-data-factory/
       roles: [Data Architects and Engineers]
       description: In this learning path, the students will learn how to create and manage data pipelines in the cloud using Azure Data Factory.
@@ -165,7 +165,7 @@
     - name: Machine learning fairness
       url: https://docs.microsoft.com/en-us/azure/machine-learning/concept-fairness-ml
       roles: [Data Analysts, Scientists, and Researcher]
-      description: Learn about machine learning fairness and how the Fairlearn open source Python package can help you assess and mitigate unfairness issues in machine learning models.
+      description: Learn about machine learning fairness and how the Fairlearn open-source Python package can help you assess and mitigate unfairness issues in machine learning models.
       image: ic_explore.svg
       alias: "DSDA R"
     - name: Create and use analytics reports with Power BI
@@ -278,7 +278,7 @@
       description: Get started building apps without coding. Start with a canvas or model-driven app, automate processes with Power Automate, and make your apps smarter with AI Builder and Power Virtual Agents.
       image: ic_communicate.svg
       alias: "PM DST"
-    - name: How to use Dataverse (Common Data Model
+    - name: How to use Dataverse (Common Data Model)
       url: https://docs.microsoft.com/en-us/learn/modules/get-started-with-powerapps-common-data-service/
       roles: [Project Managers,  Data Strategy Team]
       description: Dataverse lets you securely store and manage data that's used by business applications. Standard and custom tables within Dataverse provide a secure and cloud-based storage option for your data.

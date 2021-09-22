@@ -30,7 +30,7 @@ permalink: /contribute-to-oea/
                         <li>
                             <p>
                                 By contributing to OEA, you share in Microsoft’s
-                                commitment to diversity and inclusion in all its open source communities.
+                                commitment to diversity and inclusion in all its open-source communities.
                             </p>
                         </li>
                         <li class="mt-4">
@@ -68,7 +68,8 @@ permalink: /contribute-to-oea/
                 </div>
             </div>
             <div class="row justify-content-center text-center">
-                {% for item in site.what_can_you_contribute %}
+                {% assign items = site.what_can_you_contribute | sort: "step" %}
+                {% for item in items %}
                 <div class="col-11 col-md-6 col-sm-6 col-xl-3 col-lg-3 my-2">
                     <div class="card h-100">
                         <div class="card-body">
@@ -109,13 +110,14 @@ permalink: /contribute-to-oea/
                 </div>
                 <div class="row justify-content-center">
                     <div class="col-11 col-sm-5 col-md-10 col-lg-6 col-xl-6 d-lg-flex d-xl-flex text-center">
-                        <img class="img-fluid w-75 my-5" src="{{ site.baseurl }}/assets/imgs/benefits-of-oea-image.svg"
+                        <img class="img-fluid w-85 my-5" src="{{ site.baseurl }}/assets/imgs/benefits-of-oea-image.svg"
                              alt="community icon"/>
                     </div>
 
 
                     <div class=" col-11 col-sm-5 col-md-10 col-lg-6 col-xl-6 text-center mt-3 mt-md-0">
-                        {% for item in site.best_practices_for_contributing %}
+                        {% assign items = site.best_practices_for_contributing | sort: "step" %}
+                        {% for item in items %}
                         <div class="div">
                             <ul class="list-unstyled d-flex align-self-center">
                                 <li>
@@ -144,7 +146,7 @@ permalink: /contribute-to-oea/
         <div class="container">
             <div class="row justify-content-center mb-0">
                 <div class="col-md-6 text-center">
-                    <h4>OEA Community Spotlight</h4>
+                    <h4>OEA Community</h4>
                 </div>
             </div>
             <div class="row justify-content-center">
@@ -222,10 +224,7 @@ permalink: /contribute-to-oea/
                         </li>
                         <li>
                             <p>
-                                The OEA community is building shared technology resources of the modern data estate for
-                                education, based on Azure Synapse Analytics. OEA GitHub contains a set of assets for
-                                education system to implement the OEA reference architecture and start using all their
-                                data more quickly and effectively.
+                                Help us democratize the use of data and AI for education.
                             </p>
                         </li>
                         <li>

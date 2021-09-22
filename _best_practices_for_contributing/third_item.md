@@ -1,4 +1,6 @@
 ---
 title: 
+step: 3
 ---
-Our [Wiki page on GitHub](https://github.com/microsoft/OpenEduAnalytics/wiki) has additional information on design decisions, fixing common errors and setup tips.
+Create a fork of the OEA Github repo and make contributions using the branches of your fork.
+

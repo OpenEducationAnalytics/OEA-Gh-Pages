@@ -53,7 +53,11 @@ permalink: /inspiration/
                 {% assign sorted_posts = category[1] | reversed %}
 
                 <div class="col-11">
-                    <h5 class="my-4">{{category[0]}}</h5>
+                    {% if category[0] == "Blog" %}
+                    <h5 class="my-4">OEA Community Use Case Examples and Tech Updates</h5>
+                    {% elsif category[0] == "Newsletter" %}
+                    <h5 class="my-4">Newsletter and Updates</h5>
+                    {% endif %}
                 </div>
                 {% for post in sorted_posts %}
                 <div class="col-11 col-sm-10 col-md-6 col-lg-4 col-xl-4 h-100">
@@ -69,9 +73,11 @@ permalink: /inspiration/
                                 </div>
                             </li>
                             <li class="my-2">
-                                <h6>
-                                    {{post.title}}
-                                </h6>
+                                <a class="text-black" href="{{ site.baseurl }}{{post.url}}">
+                                    <h6>
+                                        {{post.title}}
+                                    </h6>
+                                </a>
                                 <span class="badge bg-light text-dark d-none">{{post.category}}</span>
                             </li>
                             <li>

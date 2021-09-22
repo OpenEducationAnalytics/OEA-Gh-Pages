@@ -1,4 +1,5 @@
 ---
 title: 
+step: 7
 ---
-Engage with the OEA open -source community by creating a post in [Discussions](https://github.com/microsoft/OpenEduAnalytics/discussions) and responding to existing posts.
+Our [Wiki page on GitHub](https://github.com/microsoft/OpenEduAnalytics/wiki) has additional information on design decisions, fixing common errors and setup tips.
