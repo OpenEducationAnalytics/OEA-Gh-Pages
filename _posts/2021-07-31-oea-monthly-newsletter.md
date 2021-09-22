@@ -14,7 +14,7 @@ Open Education Analytics (OEA) is a community of education systems, coordinated 
 - GitHub repository: <a href="https://github.com/microsoft/OpenEduAnalytics" target="_blank">https://github.com/microsoft/OpenEduAnalytics</a>
 - OEA Overview video: <a href="https://www.youtube.com/watch?v=efNYbS4sC4g" target="_blank">OEA Overview - YouTube</a>
 
-
+<br/><br/>
 
 ##### Data Analytics and AI
 
