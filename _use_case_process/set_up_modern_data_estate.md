@@ -5,13 +5,13 @@ step: 2
 ---
 Using the <a target="_blank" href="https://github.com/microsoft/OpenEduAnalytics">OEA Setup on GitHub<a/>, education data teams can set up the modern data estate in minutes.
 
-To setup the fully functional OEA reference architecture, follow the 3-step setup process on the OEA GitHub repository. The OEA reference architecture has been developed by Microsoft data architects using the most powerful data services from Azure and open-source tools. It sets up the foundation to enable many different use cases to be developed by an education system.
+To setup the fully functional OEA reference architecture, follow the 3-step setup process on the OEA GitHub repository. The OEA reference architecture has been developed by Microsoft data architects using the most powerful data services from Azure and open source tools. It sets up the foundation to enable many different use cases to be developed by an education system.
 
 **Setup**
 
 You can setup this fully functional reference architecture (which includes test data sets for basic examples of usage) in 3 steps:
 
- 1. Open cloud shell in your azure subscription (use ctrl+click on the button below to open in a new page)
+ 1. Open cloud shell in your Azure subscription (use ctrl+click on the button below to open in a new page)
  
      <a href="https://portal.azure.com/#cloudshell/" target="_blank">
          <button class="btn azure-blue btn-lg btn-bold btn-nav py-0 border-0 rounded-0">
