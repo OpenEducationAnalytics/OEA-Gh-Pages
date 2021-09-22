@@ -17,13 +17,14 @@ Open Education Analytics (OEA) is a community of education systems, coordinated 
 ##### Data Analytics and AI
 
 We are currently working with the Fresno Unified School District in California to build a hybrid student engagement dashboard.
-This dashboard, which will soon be a package published on the OEA GitHub, combines data for student in-person attendance in school with their overall digital engagement across Fresno’s digital learning ecosystem (e.g. across all apps used by students for learning). This provides a more comprehensive view of student engagement in learning 24/7 than attendance data alone and ladders up to a long-term vision of student intervention targeting in the district.
-
 <div class="container-wrapper text-center">
    <img src="{{ site.baseurl }}/assets/imgs/img_landing_page_success_story_fresno.png" class="img-fluid w-100" alt="" />
    <figcaption class="mt-2">Figure 1: Sample hybrid student engagement PowerBI dashboard</figcaption>
 </div>
-<br/>
+
+This dashboard, which will soon be a package published on the OEA GitHub, combines data for student in-person attendance in school with their overall digital engagement across Fresno’s digital learning ecosystem (e.g. across all apps used by students for learning). This provides a more comprehensive view of student engagement in learning 24/7 than attendance data alone and ladders up to a long-term vision of student intervention targeting in the district.
+
+
 >
 > ##### OEA Community Spotlight
 >
