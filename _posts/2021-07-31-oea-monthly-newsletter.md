@@ -23,8 +23,6 @@ This dashboard, which will soon be a package published on the OEA GitHub, combin
    <img src="{{ site.baseurl }}/assets/imgs/img_landing_page_success_story_fresno.png" class="img-fluid w-100" alt="" />
    <figcaption class="mt-2">Figure 1: Sample hybrid student engagement PowerBI dashboard</figcaption>
 </div>
-
-
 >
 > ##### OEA Community Spotlight
 >
