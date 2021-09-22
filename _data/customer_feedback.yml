@@ -14,8 +14,13 @@
   message: Ethics is an end-to-end process. It starts with policymaking, then decision making, then design of software, then design of what data to use, then training algorithms, then how end users are using the data and results. The ethics governance for the whole end-to-end process is an essential part when building Learning Analytics and AI in Education.
   image: img_profile_pasi.jpg
   role: Head of ICT Development Programs, AI & Data Analytics, City of Helsinki Education Division.
-- name: Vüsal Khanlarov
+- name: Keith Osburn
   position: 4
+  message: This data modernization will enable us to move to a culture that is data driven with an unwavering commitment to building a more student-centered culture.
+  image: img_profile_keith.jpg
+  role: Deputy Superintendent for Technology Services / Chief Information Officer, Georgia State Dept of Education. 
+- name: Vüsal Khanlarov
+  position: 5
   message: Whatever we do affects millions of people—not only those that are in school now, but parents and future generations. When we take any action, we have to understand that there is a great responsibility for tomorrow. Education is a system where you see changes very slowly, but when you plant a seed, it’s very difficult to roll it back. Before making any action, it’s important to understand what values you follow and why you do it.
   image: img_profile_vusal.jpg
   role: Head of Bureau on ICT for Education, Ministry of Education of the Republic of Azerbaijan.
