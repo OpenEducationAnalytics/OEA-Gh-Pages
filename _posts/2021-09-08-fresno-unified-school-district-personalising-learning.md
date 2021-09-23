@@ -8,6 +8,12 @@ image: /assets/imgs/img_landing_page_success_story_fresno.png
 
 Fresno Unified School District serves about 71,000 students from preschool through secondary school in California. In general, these students come from economically challenged families, with 88.3%    of the district population receiving free or reduced-price lunches at school. The district wanted to embed personalised learning across schools to make sure they were addressing the unique needs of all of their students individually and to develop and nurture a culture of continuous improvement that would benefit their learners throughout their lives.
 
+>Many changes are driven by equity. Creativity, collaboration, real-world problem-solving … students who most need these skills to compete in the workforce and to succeed in college are students from disadvantaged backgrounds. Learning analytics, using an equity focus, shows these students gain on both content knowledge and skills competency when teaching practices better prepare students for their AsYetImagined futures.
+>
+>Philip Neufeld 
+>
+>Executive Officer, Information Technology, Fresno Unified School District
+
 ##### Understanding and sharing what works 
 
 Fresno Unified School District’s Personalised Learning Initiative (PLI) encouraged and supported the district’s teachers in the use of digital tools that enhance and accelerate learning experiences   for students. Throughout the implementation of this initiative, district leaders wanted to use data to understand its impact in schools. Keeping in mind their dual objectives of providing equal opportunities for all of their students while preparing them for the future that awaits them, the district leadership knew they needed new data signals and multiple, connected sources of data to understand whether every student was making progress. Specifically, they wanted to understand what was working, where it was working, and why. 
