@@ -52,7 +52,7 @@ const load = () => {
 
     animate(text1, 0, 62, 5000);
     animate(text2, 0, 37, 5000);
-    animate(text3, 0, 1600000, 5000);
+    animate(text3, 0, 2100000, 5000);
 
 
 }
