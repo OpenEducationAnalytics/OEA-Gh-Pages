@@ -30,6 +30,7 @@ The district embedded ethical data practices into their work from the beginning,
 The district also created rules governing how to share data amongst partners in a way that protected students’ personally identifiable information.
 Being “good stewards of the data,” as Philip Neufeld says, is about more than just data security practices, however. It involves making careful decisions on how to responsibly share data and combine data form different sources. Most importantly, all parties need to make sure data are being used in a way that promotes all students getting a better education.
 
+>
 >Begin with the end in mind, but start where you’re at.
 >
 >Philip Neufeld 
