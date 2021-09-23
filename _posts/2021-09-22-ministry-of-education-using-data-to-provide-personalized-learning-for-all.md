@@ -8,7 +8,7 @@ image: /assets/imgs/posts/img_azerbaijan_chart.jpg
 
 The Ministry of Education of the Republic of Azerbaijan serves more than 1.6 million students and 140,000 teachers in its 4000 primary and secondary schools spread throughout the country in rural and urban areas. Prior to the COVID-19 pandemic of 2020, the education system did not make widespread use of digital technologies. Thus, when schools closed in Azerbaijan, due to the pandemic, the Ministry of Education had to plan quickly to ensure that all students could continue their education during the lockdown. 
 
-A vision for personalized learning
+##### A vision for personalized learning
 
 >Whatever we do affects millions of people—not only those that are in school now, but parents and future generations. When we take any action, we have to understand that there is a great responsibility for tomorrow. Education is a system where you see changes very slowly, but when you plant a seed, it’s very difficult to roll it back. Before making any action, it’s important to understand what values you follow and why you do it.
 >
