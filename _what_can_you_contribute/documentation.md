@@ -1,5 +1,5 @@
 ---
-title: Examples
+title: Exemplars
 image: assets/imgs/documentation-icon.svg
 step: 4
 ---
