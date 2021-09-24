@@ -20,7 +20,7 @@ Fresno Unified School District’s Personalised Learning Initiative (PLI) encour
 They wanted to be able to identify and share exemplar teaching practices widely throughout the district. 
 
 <div class="container-wrapper text-center">
-   <img src="{{ site.baseurl }}/assets/imgs/posts/img_fresno_visual.png" class="img-fluid w-100" alt="" />
+   <img src="{{ site.baseurl }}/assets/imgs/posts/img_landing_page_success_story_fresno.png" class="img-fluid w-100" alt="" />
 </div>
 
 ##### Beginning with the end in mind
