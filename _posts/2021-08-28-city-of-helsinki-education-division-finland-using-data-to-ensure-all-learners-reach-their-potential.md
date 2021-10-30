@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Nebraska Department of Education: Generates actionable insights with Microsoft Azure to support equitable outcomes for students" 
+title: "City of Helsinki Education Division Finland : Using data to ensure all learners reach their potential" 
 author: Author
 category: Blog
 image: /assets/imgs/img_landing_page_success_story_helsinki.png
