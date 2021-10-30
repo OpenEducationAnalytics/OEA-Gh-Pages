@@ -115,4 +115,4 @@ we can re-architect this and reduce that technical debt yet again.’”
 By resetting its data strategy and investigating the real-world opportunity presented by Azure, the NDE is pioneering a new approach to student outcomes, one in which all 
 learners regardless of their background, will be supported to reach their full potential. 
 
-This post was originally published on [the Microsoft Customer Stories website.](https://customers.microsoft.com/en-us/story/1422669533588576452-nebraska-k12-edu-azure-en-united-states)
+*This post was originally published on [the Microsoft Customer Stories website.](https://customers.microsoft.com/en-us/story/1422669533588576452-nebraska-k12-edu-azure-en-united-states)*
