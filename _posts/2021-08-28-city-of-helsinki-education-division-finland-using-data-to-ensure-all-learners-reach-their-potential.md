@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "City of Helsinki Education Division Finland : Using data to ensure all learners reach their potential" 
+title: "Nebraska Department of Education: Generates actionable insights with Microsoft Azure to support equitable outcomes for students" 
 author: Author
 category: Blog
 image: /assets/imgs/img_landing_page_success_story_helsinki.png
@@ -61,7 +61,7 @@ from automated or semi-automated supports provided by the system. The team creat
 >Head of ICT Development Programs, AI & Data Analytics, City of Helsinki Education Division.
 
 
-Text BoxFrom the very first phases of this journey, the team kept in mind the ethics associated with collecting and analysing data. The ethical principles that drive this work are defined 
+From the very first phases of this journey, the team kept in mind the ethics associated with collecting and analysing data. The ethical principles that drive this work are defined 
 together with representatives from across the education system. They wanted to avoid using learning analytics to label or stigmatise students by assigning them to different “profiles” 
 or categorising them in any way, such as by their learning style. 
 
