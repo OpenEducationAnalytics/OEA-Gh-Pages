@@ -9,7 +9,7 @@
 - use_case: Define the Problem
   courses:
     - name: Open Education Analytics Overview
-      url: https://www.youtube.com/watch?v=efNYbS4sC4g
+      url: https://www.youtube.com/watch?v=q6snp28bBQU&t=1s
       roles: [Project Managers , Data Architects and Engineers, Data Scientists and Analysts, Researchers, Data Strategy Team]
       description:  Learn more about how OEA can help you modernize your own data estate.
       image: ic_define_the_problem.svg
