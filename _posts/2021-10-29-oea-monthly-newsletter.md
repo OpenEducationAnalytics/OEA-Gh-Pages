@@ -31,11 +31,11 @@ On 20th October, we launched the Global OEA Community with education systems fro
 OEA technical assets enable our partners and customers to experience easier deployments of data and AI Azure services, realize high value education use cases, and see quick time to value. Our latest release of the OEA framework, v0.5, focuses on a cleaner separation of the installation of framework assets from the provisioning of the infrastructure, and an updated module and package structure. We have also added infrastructure guidance to better align with Microsoft resources including the Cloud Adoption Framework and Enterprise Scale Analytics. We continue to build out the OEA framework to include assets that codify patterns distilled from the development of modules and packages designed to enable key education use cases for data and AI. 
 
 Our v0.5 release includes among others: 
-•	Updated OEA framework setup script to simplify installation of framework into existing Synapse workspace. 
-•	New framework assets including linked services, datasets, and pipelines. 
-•	Data generator framework and utilities. 
+- Updated OEA framework setup script to simplify installation of framework into existing Synapse workspace. 
+- New framework assets including linked services, datasets, and pipelines. 
+- Data generator framework and utilities. 
 
-See the full list [here](https://github.com/microsoft/OpenEduAnalytics/releases/tag/v0.5). 
+See the full list <a href="https://github.com/microsoft/OpenEduAnalytics/releases/tag/v0.5" target="_blank">here</a>. 
 
 
 >
