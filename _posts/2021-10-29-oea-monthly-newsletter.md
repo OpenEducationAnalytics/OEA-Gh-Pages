@@ -51,11 +51,13 @@ See the full list <a href="https://github.com/microsoft/OpenEduAnalytics/release
 
 ##### Data Analytics and AI
 
-The OEA community is building shared technology resources, including modules (for a single data source) and packages (for multiple data sources combined for a use case) to help education systems implement the modern data estate in education. In October, we published 1 new module and 1 new package on the OEA GitHub repository. These are the [Graph Reports Module](https://github.com/microsoft/OpenEduAnalytics/tree/main/modules/Microsoft_Graph) for ingesting data from the Graph Reports API into Synapse and the [Hybrid Engagement Package](https://github.com/microsoft/OpenEduAnalytics/tree/main/packages/ContosoISD_hybrid_engagement) which provides a set of assets for education systems to have a more comprehensive report of in-person attendance and digital activity. 
+The OEA community is building shared technology resources, including modules (for a single data source) and packages (for multiple data sources combined for a use case) to help education systems implement the modern data estate in education. In October, we published 1 new module and 1 new package on the OEA GitHub repository. These are the <a href="https://github.com/microsoft/OpenEduAnalytics/tree/main/modules/Microsoft_Graph" target="_blank">Graph Reports Module </a> for ingesting data from the Graph Reports API into Synapse and the <a href="https://github.com/microsoft/OpenEduAnalytics/tree/main/packages/ContosoISD_hybrid_engagement" target="_blank">Hybrid Engagement Package </a> which provides a set of assets for education systems to have a more comprehensive report of in-person attendance and digital activity. 
 
 Our upcoming modules include the Microsoft Education Insights Module for ingesting data from Education Insights to Synapse, the Intune Reports Module for ingesting Intune device report data into Synapse and the Clever Module for ingesting multi-app signals from Clever to Synapse. All of these modules can support education systems seeking to develop Digital Learning Ecosystem Insights, to see how use of various digital learning tools relate to learning outcomes in this era of hybrid learning. 
 
 We will also be publishing the Verified Credentials Package which will enable education systems to issue verified credentials of a students’ knowledge and skills from their OEA-based data estates. 
+ 
+
  
 
 ##### Customer and Partner Enablement
