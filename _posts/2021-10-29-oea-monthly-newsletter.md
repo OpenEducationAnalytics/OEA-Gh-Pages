@@ -41,8 +41,10 @@ See the full list <a href="https://github.com/microsoft/OpenEduAnalytics/release
 >
 > ##### OEA Community Spotlight
 >
-> Addressing student absenteeism continues to permeate education policy and practice in global education systems. California and many other states have incorporated “chronic absenteeism” as an accountability metric under the Every Student Succeeds Act.  
+> Addressing student absenteeism continues to permeate education policy and practice in global education systems. California and many other states have incorporated “chronic absenteeism” as an accountability metric under the Every Student Succeeds Act.
+>   
 > OEA is partnering with Fresno Unified School District’s Department of Prevention and Intervention over the next few months to build a model for predicting students at risk of becoming chronically absent. This will help Fresno focus its resources to better support students on a trajectory leading to chronic absenteeism.  
+> 
 > What is unique about this project is that we will include student digital activity data from O365 as one of the features or indicators that may help predict absenteeism more accurately.
  
 
