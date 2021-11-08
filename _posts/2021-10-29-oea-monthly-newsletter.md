@@ -13,7 +13,7 @@ Open Education Analytics (OEA) is a community of education systems and tech part
 
 - OEA Website: <a href="https://openeducationanalytics.org" target="_blank">https://openeducationanalytics.org </a>
 - OEA GitHub Repository: <a href="https://github.com/microsoft/OpenEduAnalytics" target="_blank">https://github.com/microsoft/OpenEduAnalytics</a>
-<br/><br/>
+
 ##### OEA Communities
 
 On 20th October, we launched the Global OEA Community with education systems from different parts of the world. They shared their visions, scenarios and use cases in data and AI. 
@@ -26,7 +26,6 @@ On 20th October, we launched the Global OEA Community with education systems fro
 - **Penn State University** wants to move from descriptive to prescriptive analytics by creating a university system-wide data environment to support adult and part time learners, even as they move between campuses and different employment scenarios. Predictive analytics will also inform policy decisions and systematic change. 
 - **Kent State University** wants to elevate the quality of their data to enhance insightful decision making and forecasting. This includes a robust system-wide data governance policy to ensure data integrity over time. 
 
-<br/><br/>
 ##### OEA Tech: Helping Education Systems Setup Their Modern Data Estate
 OEA technical assets enable our partners and customers to experience easier deployments of data and AI Azure services, realize high value education use cases, and see quick time to value. Our latest release of the OEA framework, v0.5, focuses on a cleaner separation of the installation of framework assets from the provisioning of the infrastructure, and an updated module and package structure. We have also added infrastructure guidance to better align with Microsoft resources including the Cloud Adoption Framework and Enterprise Scale Analytics. We continue to build out the OEA framework to include assets that codify patterns distilled from the development of modules and packages designed to enable key education use cases for data and AI. 
 
@@ -46,8 +45,8 @@ See the full list <a href="https://github.com/microsoft/OpenEduAnalytics/release
 > OEA is partnering with Fresno Unified School District’s Department of Prevention and Intervention over the next few months to build a model for predicting students at risk of becoming chronically absent. This will help Fresno focus its resources to better support students on a trajectory leading to chronic absenteeism.  
 > 
 > What is unique about this project is that we will include student digital activity data from O365 as one of the features or indicators that may help predict absenteeism more accurately.
- 
-<br/><br/>
+
+
 ##### Data Analytics and AI
 
 The OEA community is building shared technology resources, including modules (for a single data source) and packages (for multiple data sources combined for a use case) to help education systems implement the modern data estate in education. In October, we published 1 new module and 1 new package on the OEA GitHub repository. These are the <a href="https://github.com/microsoft/OpenEduAnalytics/tree/main/modules/Microsoft_Graph" target="_blank">Graph Reports Module </a> for ingesting data from the Graph Reports API into Synapse and the <a href="https://github.com/microsoft/OpenEduAnalytics/tree/main/packages/ContosoISD_hybrid_engagement" target="_blank">Hybrid Engagement Package </a> which provides a set of assets for education systems to have a more comprehensive report of in-person attendance and digital activity. 
@@ -56,7 +55,7 @@ Our upcoming modules include the Microsoft Education Insights Module for ingesti
 
 We will also be publishing the Verified Credentials Package which will enable education systems to issue verified credentials of a students’ knowledge and skills from their OEA-based data estates. 
  
-<br/><br/>
+
 ##### Customer and Partner Enablement
 To improve the process of developing and contributing modules for our partners and customers, we recently published a kit for module creation. In the OEA framework, a module refers to a set of assets for moving a single data source into Synapse. The <a href="https://github.com/microsoft/OpenEduAnalytics/tree/main/modules/_Creation_Kit" target="_blank">OEA Module Creation Kit </a>, now live on the OEA GitHub repository, is designed to make the development of high quality OEA Modules easier by defining guidelines so every module will have a consistent set of assets. The more modules the OEA Community develops, the more education data sources can easily be ingested into each organization’s modern data estate. This will save valuable time and resources for both education systems and analytics partners. OEA modules eliminate the need for each team to build education data source pipelines ‘from scratch’ and speed up the time to value for analytics investments. 
 
