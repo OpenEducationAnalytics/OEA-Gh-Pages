@@ -1,6 +1,6 @@
 ---
 layout: post
-title: OEA August 2021 Newsletter
+title: OEA August and September 2021 Newsletter
 author: Author
 description: In this newsletter, we share updates about the upcoming launch of the Global OEA Community, new OEA website and others.
 category: Newsletter
