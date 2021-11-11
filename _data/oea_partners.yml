@@ -43,25 +43,25 @@
   email: bauton@moqdigital.com.au
   logo: moqdigital.jpg
   region: Australia / Pacific
-  region_code:AUS-PA
+  region_code: AUS-PA
   website: https://www.moqdigital.com/
 
 
-- name: MyCompany
-  contact_person: Contact Person
-  email: email@partner.com
-  logo: kliky.PNG
-  region: Middle East
-  region_code: ME
-  website: https://www.microsoft.com/en-us/ai/responsible-ai?activetab=pivot1:primaryr6
+- name: PwC
+  contact_person: Deborah Henderson
+  email: deborah.henderson@pwc.com
+  logo: pwc.png
+  region: Australia / Pacific
+  region_code: AUS-PA
+  website: https://www.pwc.com.au/consulting/digital-transformation/microsoft.html
 
-- name: GenterX
-  contact_person: Mary Osei
-  email: email@partner.com
-  logo: pyramid.png
-  region: Africa
-  region_code: AF
-  website: https://www.microsoft.com/en-us/ai/responsible-ai?activetab=pivot1:primaryr6
+- name: Unicon
+  contact_person: Jason Lacy
+  email: jlacy@unicon.net
+  logo: unicon.png
+  region: North America
+  region_code: NA
+  website: https://www.unicon.net/
 
 - name: Diveron 
   contact_person: Constance Petters
