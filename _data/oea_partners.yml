@@ -2,8 +2,8 @@
   contact_person: Miguel Molina-Cosculluela
   email: mmolina@analytikus.com
   logo: analytikus.png
-  region: Europe
-  region_code: EU
+  region: Europe, South America
+  region_code: EU, SA
   website: https://www.analytikus.com/
 
 - name: ATL Systems
