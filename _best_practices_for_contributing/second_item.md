@@ -2,5 +2,4 @@
 title: 
 step: 2
 ---
-Follow the creation kits, guidelines and quality rubric provided for contributing each asset type.
-
+Use the <a href="https://github.com/microsoft/OpenEduAnalytics/tree/main/modules/_Creation_Kit" target="_blank">OEA Module Creation Kit </a>  to accelerate your module development and contribution.
