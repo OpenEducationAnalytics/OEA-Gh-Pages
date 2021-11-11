@@ -2,8 +2,8 @@
   contact_person: Miguel Molina-Cosculluela
   email: mmolina@analytikus.com
   logo: analytikus.png
-  region: Europe, South America
-  region_code: EU, SA
+  region: Europe
+  region_code: EU
   website: https://www.analytikus.com/
 
 - name: ATL Systems
@@ -18,8 +18,8 @@
   contact_person: Matt Woodruff
   email: mattw@communitybrands.uk
   logo: communitybrands.png
-  region: Europe, North America, Middle East
-  region_code: EU, NA, ME
+  region: Europe
+  region_code: EU
   website: https://www.communitybrands.uk/education-analytics/
 
 - name: Eventful
