@@ -6,13 +6,13 @@
   region_code: EU
   website: https://www.analytikus.com/
 
-- name: Data Company
-  contact_person: Corry Thomas
-  email: email@partner.com
-  logo: kliky.PNG
+- name: ATL Systems
+  contact_person: Koushin HAMAGUCHI and Chinatsu NABESHIMA
+  email: oea-support@atl-systems.co.jp
+  logo: atlsystems.jpg
   region: Asia
   region_code: AS
-  website: https://www.microsoft.com/en-us/ai/responsible-ai?activetab=pivot1:primaryr6
+  website: https://www.atl-systems.co.jp/
 
 - name: WeGrow Corporation
   contact_person: Gordon Reake
