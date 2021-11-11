@@ -1,10 +1,10 @@
-- name: Matea Analytics
-  contact_person: Mary Doe
-  email: email@partner.com
+- name: Analytikus
+  contact_person: Miguel Molina-Cosculluela
+  email: mmolina@analytikus.com
   logo: logo.jpg
-  region: Africa
-  region_code: AF
-  website: https://www.microsoft.com/en-us/ai/responsible-ai?activetab=pivot1:primaryr6
+  region: Europe
+  region_code: EU
+  website: https://www.analytikus.com/
 
 - name: Data Company
   contact_person: Corry Thomas
