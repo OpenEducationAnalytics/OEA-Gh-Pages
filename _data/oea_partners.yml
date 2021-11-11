@@ -30,13 +30,13 @@
   region_code: EU
   website: https://www.eventful.se/en/startpage/
 
-- name: MoMo Company
-  contact_person: Martha Sena
-  email: email@partner.com
-  logo: kliky.PNG
-  region: Africa
-  region_code: AF
-  website: https://www.microsoft.com/en-us/ai/responsible-ai?activetab=pivot1:primaryr6
+- name: Kwantum Analytics
+  contact_person: Chad Vidden
+  email: chad.vidden@teamkwantum.com
+  logo: kwantum.png
+  region: North America
+  region_code: NA
+  website: https://www.kwantumanalytics.com/education-analytics
 
 - name: Xcom
   contact_person: Kim In-Yeop
