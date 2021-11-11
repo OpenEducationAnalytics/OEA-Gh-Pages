@@ -22,13 +22,13 @@
   region_code: EU-NA-ME
   website: https://www.communitybrands.uk/education-analytics/
 
-- name: Inspire Gen
-  contact_person: Peter Pearson
-  email: email@partner.com
-  logo: pyramid.png
-  region: North America / Central America / Caribbean
-  region_code: NA-CENA-CAR
-  website: https://www.microsoft.com/en-us/ai/responsible-ai?activetab=pivot1:primaryr6
+- name: Eventful
+  contact_person: Douglas Potter
+  email: douglas@eventful.se
+  logo: eventful.PNG
+  region: Europe
+  region_code: EU
+  website: https://www.eventful.se/en/startpage/
 
 - name: MoMo Company
   contact_person: Martha Sena
