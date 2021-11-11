@@ -38,13 +38,13 @@
   region_code: NA
   website: https://www.kwantumanalytics.com/education-analytics
 
-- name: Xcom
-  contact_person: Kim In-Yeop
-  email: email@partner.com
-  logo: logo.jpg
-  region: Asia
-  region_code: AS
-  website: https://www.microsoft.com/en-us/ai/responsible-ai?activetab=pivot1:primaryr6
+- name: MOQdigital
+  contact_person: Brett Auton
+  email: bauton@moqdigital.com.au
+  logo: moqdigital.jpg
+  region: Australia / Pacific
+  region_code:AUS-PA
+  website: https://www.moqdigital.com/
 
 
 - name: MyCompany
