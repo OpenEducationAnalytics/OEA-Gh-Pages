@@ -212,28 +212,28 @@ permalink: /partners/
             <div
                     class="col-11 col-md-5 col-sm-8 col-lg-3 col-xl-3 g-lg-0 g-xl-3 my-lg-3 my-2 my-xl-4 mx-xl-3 mx-lg-3 mx-1 my-2 justify-content-center">
                 <div class="card h-100">
-                    <div class="card-body">
-                        <ul class="list-unstyled">
-                            <li class="mb-3">
-                                <img src="{{site.baseurl}}/assets/imgs/partners/{{ partner.logo }}" alt="" height="50"
-                                     class="img-fluid w-25"/>
-                            </li>
-                            <li style="color: #055BFA;">
-                                <h6>{{ partner.name }}</h6>
-                            </li>
-                            <li>
-                                <h6 class="mb-0">{{ partner.contact_person }}</h6>
-                            </li>
-                            <li>
-                                <p class="mb-0">{{ partner.email }}</p>
-                            </li>
-                            <li class="grey-text mt-2">
-                                <small class="mb-0">{{ partner.region }}</small>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
+               <div class="card-body">
+   <a href="{{partner.website}}" target="_blank">
+       <ul class="list-unstyled">
+           <li class="mb-3">
+               <img src="{{site.baseurl}}/assets/imgs/partners/{{ partner.logo }}" alt="" height="50"
+                    class="img-fluid w-25"/>
+           </li>
+           <li style="color: #055BFA;">
+               <h6>{{ partner.name }}</h6>
+           </li>
+           <li>
+               <h6 class="mb-0">{{ partner.contact_person }}</h6>
+           </li>
+           <li>
+               <p class="mb-0">{{ partner.email }}</p>
+           </li>
+           <li class="grey-text mt-2">
+               <small class="mb-0">{{ partner.region }}</small>
+           </li>
+       </ul>
+   </a>
+</div>
 
             {% endfor %}
         </div>
