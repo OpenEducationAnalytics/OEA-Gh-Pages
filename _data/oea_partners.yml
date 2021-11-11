@@ -14,13 +14,13 @@
   region_code: AS
   website: https://www.atl-systems.co.jp/
 
-- name: WeGrow Corporation
-  contact_person: Gordon Reake
-  email: email@partner.com
-  logo: pyramid.png
-  region: Europe
-  region_code: EU
-  website: https://www.microsoft.com/en-us/ai/responsible-ai?activetab=pivot1:primaryr6
+- name: Community Brands
+  contact_person: Matt Woodruff
+  email: mattw@communitybrands.uk
+  logo: communitybrands.png
+  region: Europe / North America / Middle East
+  region_code: EU-NA-ME
+  website: https://www.communitybrands.uk/education-analytics/
 
 - name: Inspire Gen
   contact_person: Peter Pearson
