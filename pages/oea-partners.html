@@ -211,6 +211,7 @@ permalink: /partners/
             {% for partner in partners limit:8 %}
             <div
                     class="col-11 col-md-5 col-sm-8 col-lg-3 col-xl-3 g-lg-0 g-xl-3 my-lg-3 my-2 my-xl-4 mx-xl-3 mx-lg-3 mx-1 my-2 justify-content-center">
+                <a href="{{ partner.website }}" target="_blank">
                 <div class="card h-100">
                        <div class="card-body">
                         <ul class="list-unstyled">
@@ -233,6 +234,7 @@ permalink: /partners/
                         </ul>
                     </div>
                 </div>
+                </a>
                 </div>
 
             {% endfor %}
