@@ -9,7 +9,7 @@
 - name: ATL Systems
   contact_person: Koushin Hamaguchi 
   email: oea-support@atl-systems.co.jp
-  logo: atlsystems.jpg
+  logo: atlsystems.png
   region: Asia
   region_code: AS
   website: https://www.atl-systems.co.jp/
@@ -25,7 +25,7 @@
 - name: Eventful
   contact_person: Douglas Potter
   email: douglas@eventful.se
-  logo: eventful.PNG
+  logo: eventful.png
   region: Europe
   region_code: EU
   website: https://www.eventful.se/en/startpage/
@@ -41,7 +41,7 @@
 - name: MOQdigital
   contact_person: Brett Auton
   email: bauton@moqdigital.com.au
-  logo: moqdigital.jpg
+  logo: moqdigital.png
   region: Australia / Pacific
   region_code: AUS-PA
   website: https://www.moqdigital.com/
