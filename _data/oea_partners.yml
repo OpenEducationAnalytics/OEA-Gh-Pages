@@ -61,6 +61,14 @@
   region: Australia / Pacific
   region_code: AUS-PA
   website: https://www.pwc.com.au/consulting/digital-transformation/microsoft.html
+  
+- name: Spyglass
+  contact_person: John Francis
+  email: jfrancis@spyglassmtg.com
+  logo: 
+  region: North America
+  region_code: NA
+  website: https://www.spyglassmtg.com/industry-solutions-edu
 
 - name: Unicon
   contact_person: Jason Lacy
