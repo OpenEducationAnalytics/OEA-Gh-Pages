@@ -37,6 +37,14 @@
   region: North America
   region_code: NA
   website: https://www.kwantumanalytics.com/education-analytics
+  
+  - name: LeXP
+  contact_person: Rodrigo Estevam
+  email: rodrigo@lexp.com.br
+  logo: lexp.png
+  region: South America
+  region_code: SA
+  website: https://www.lexp.com.br/
 
 - name: MOQdigital
   contact_person: Brett Auton
