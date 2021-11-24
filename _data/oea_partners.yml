@@ -38,7 +38,7 @@
   region_code: NA
   website: https://www.kwantumanalytics.com/education-analytics
   
-  - name: LeXP
+- name: LeXP
   contact_person: Rodrigo Estevam
   email: rodrigo@lexp.com.br
   logo: lexp.png
@@ -53,7 +53,6 @@
   region: Australia / Pacific
   region_code: AUS-PA
   website: https://www.moqdigital.com/
-
 
 - name: PwC
   contact_person: Deborah Henderson
