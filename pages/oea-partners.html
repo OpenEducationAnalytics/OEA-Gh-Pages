@@ -122,8 +122,8 @@ permalink: /partners/
             </div>
         </div>
 
-        <div class="row mt-5 justify-content-center d-none">
-            <div class="col-md-10">
+        <div class="row mt-5 justify-content-center">
+            <div class="col-md-10 d-none">
                 <div class="container px-0">
                     <div class="row justify-content-between mx-2 mx-lg-0 mx-xl-0 mx-md-2 mb-4 mb-md-5">
                         <div class="col-md-6 g-0">
@@ -226,7 +226,9 @@ permalink: /partners/
                                 <h6 class="mb-0">{{ partner.contact_person }}</h6>
                             </li>
                             <li>
-                                <p class="mb-0">{{ partner.email }}</p>
+                                <a class="text-black" href="mailto:{{partner.email}}">
+                                    <p class="mb-0">{{ partner.email }}</p>
+                                </a>
                             </li>
                             <li class="grey-text mt-2">
                                 <small class="mb-0">{{ partner.region }}</small>

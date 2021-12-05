@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -20,7 +23,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="883c08e2-ef2c-41d7-a771-9fd14e27e966" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/imgs/partners/spyglass.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/oea_partners.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/oea_partners.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/default.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/post.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/post.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/styles.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/styles.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/styles.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/imgs/partners/eventful.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/assets/imgs/partners/eventful.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/imgs/partners/lexp.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/imgs/partners/lexp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/imgs/partners/spyglass.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/oea-partners.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/oea-partners.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,8 +60,11 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="1vuagMZuTGpAtloRUcJJnJO8bO2" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -59,7 +78,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/imgs" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/imgs/partners" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -68,14 +87,16 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/imgs/partners" />
       <recent name="$PROJECT_DIR$/assets/imgs" />
       <recent name="$PROJECT_DIR$/assets/imgs/posts" />
       <recent name="$PROJECT_DIR$/assets/imgs/customers" />
       <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/_posts" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/assets/imgs" />
@@ -83,6 +104,7 @@
       <recent name="$PROJECT_DIR$/_sass" />
     </key>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -160,11 +182,16 @@
       <workItem from="1632079636859" duration="2183000" />
       <workItem from="1632180790701" duration="848000" />
       <workItem from="1632242853153" duration="3816000" />
+      <workItem from="1636599711537" duration="472000" />
+      <workItem from="1636600304719" duration="2247000" />
+      <workItem from="1638205854155" duration="1463000" />
+      <workItem from="1638720064773" duration="250000" />
+      <workItem from="1638720644742" duration="1996000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -176,56 +203,8 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="442" y="278" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1630211186850">
-      <screen x="0" y="25" width="1440" height="875" />
-    </state>
-    <state x="442" y="278" key="#com.intellij.fileTypes.FileTypeChooser/0.25.1440.875/1440.25.1920.1055@0.25.1440.875" timestamp="1630211186850" />
-    <state x="442" y="278" key="#com.intellij.fileTypes.FileTypeChooser/0.25.1440.875@0.25.1440.875" timestamp="1628683469859" />
-    <state x="556" y="302" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1628635579096">
-      <screen x="0" y="25" width="1440" height="875" />
-    </state>
-    <state x="556" y="302" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.25.1440.875/1440.25.1920.1055@0.25.1440.875" timestamp="1628635579096" />
-    <state x="470" y="210" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1628637449473">
-      <screen x="0" y="25" width="1440" height="875" />
-    </state>
-    <state x="470" y="210" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.25.1440.875/1440.25.1920.1055@0.25.1440.875" timestamp="1628637449473" />
-    <state x="100" y="125" width="1240" height="675" key="DiffContextDialog" timestamp="1631882386133">
-      <screen x="0" y="25" width="1440" height="875" />
-    </state>
-    <state x="100" y="125" width="1240" height="675" key="DiffContextDialog/0.25.1440.875@0.25.1440.875" timestamp="1631882386133" />
-    <state x="375" y="245" key="EditFileWatcherDialog" timestamp="1627480940129">
-      <screen x="0" y="25" width="1440" height="875" />
-    </state>
-    <state x="375" y="245" key="EditFileWatcherDialog/0.25.1440.875/1440.25.1920.1055@0.25.1440.875" timestamp="1627480940129" />
-    <state x="156" y="95" key="MergeDialog" timestamp="1630340472257">
-      <screen x="0" y="25" width="1440" height="875" />
-    </state>
-    <state x="156" y="95" key="MergeDialog/0.25.1440.875/1440.25.1920.1055@0.25.1440.875" timestamp="1630340472257" />
-    <state x="370" y="224" key="MultipleFileMergeDialog" timestamp="1630340472314">
-      <screen x="0" y="25" width="1440" height="875" />
-    </state>
-    <state x="370" y="224" key="MultipleFileMergeDialog/0.25.1440.875/1440.25.1920.1055@0.25.1440.875" timestamp="1630340472314" />
-    <state x="370" y="224" key="MultipleFileMergeDialog/0.25.1440.875@0.25.1440.875" timestamp="1630270502162" />
-    <state x="100" y="125" width="1231" height="675" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1631203391332">
-      <screen x="0" y="25" width="1440" height="875" />
-    </state>
-    <state x="100" y="125" width="1231" height="675" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.25.1440.875/1440.25.1920.1055@0.25.1440.875" timestamp="1631203391332" />
-    <state x="411" y="255" key="git4idea.merge.GitPullDialog" timestamp="1632261248912">
-      <screen x="0" y="25" width="1440" height="875" />
-    </state>
-    <state x="411" y="255" key="git4idea.merge.GitPullDialog/0.25.1440.875/1440.25.1920.1055@0.25.1440.875" timestamp="1632180961943" />
-    <state x="1988" y="302" key="git4idea.merge.GitPullDialog/0.25.1440.875/1440.25.1920.1055@1440.25.1920.1055" timestamp="1631220729838" />
-    <state x="411" y="255" key="git4idea.merge.GitPullDialog/0.25.1440.875@0.25.1440.875" timestamp="1632261248912" />
-    <state x="385" y="214" width="670" height="158" key="search.everywhere.popup" timestamp="1632246522032">
-      <screen x="0" y="25" width="1440" height="875" />
-    </state>
-    <state x="385" y="214" width="670" height="158" key="search.everywhere.popup/0.25.1440.875/1440.25.1920.1055@0.25.1440.875" timestamp="1632036344517" />
-    <state x="385" y="214" width="670" height="158" key="search.everywhere.popup/0.25.1440.875@0.25.1440.875" timestamp="1632246522032" />
   </component>
 </project>

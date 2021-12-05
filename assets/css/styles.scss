@@ -275,6 +275,15 @@ a {
   text-decoration: none;
 }
 
+
+img[alt="Share to Microsoft Teams"] {
+  margin-top: -15px;
+}
+
+#microsoft_partner_section {
+  background-color: #d0ddf7;
+}
+
 @media (max-width: 768px) {
   h1, h2, h3 {
     line-height: 2.1rem;
