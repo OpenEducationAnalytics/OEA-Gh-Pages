@@ -23,19 +23,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="883c08e2-ef2c-41d7-a771-9fd14e27e966" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/imgs/partners/spyglass.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/oea_partners.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/oea_partners.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/default.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/post.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/post.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/styles.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/styles.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/styles.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/imgs/partners/eventful.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/assets/imgs/partners/eventful.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/imgs/partners/lexp.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/imgs/partners/lexp.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/imgs/partners/spyglass.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/oea-partners.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/oea-partners.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -186,7 +176,9 @@
       <workItem from="1636600304719" duration="2247000" />
       <workItem from="1638205854155" duration="1463000" />
       <workItem from="1638720064773" duration="250000" />
-      <workItem from="1638720644742" duration="1996000" />
+      <workItem from="1638720644742" duration="2396000" />
+      <workItem from="1638919544485" duration="1166000" />
+      <workItem from="1639429557963" duration="756000" />
     </task>
     <servers />
   </component>

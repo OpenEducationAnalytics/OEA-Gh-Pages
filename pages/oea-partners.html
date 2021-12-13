@@ -113,8 +113,9 @@ permalink: /partners/
                     </li>
                     <li class="">
                         <p>
-                            Connect with a partner (third-party Microsoft solution providers) in your region who can setup the 
-                            OEA architecture in your institution and bring your education use cases to life. 
+                            Connect with a partner (third-party Microsoft solution providers) in your region who can
+                            setup the
+                            OEA architecture in your institution and bring your education use cases to life.
                         </p>
                     </li>
 
@@ -122,8 +123,8 @@ permalink: /partners/
             </div>
         </div>
 
-        <div class="row mt-5 justify-content-center">
-            <div class="col-md-10 d-none">
+        <div class="d-none row mt-5 justify-content-center">
+            <div class="col-md-10">
                 <div class="container px-0">
                     <div class="row justify-content-between mx-2 mx-lg-0 mx-xl-0 mx-md-2 mb-4 mb-md-5">
                         <div class="col-md-6 g-0">
@@ -210,34 +211,35 @@ permalink: /partners/
             {% assign partners = site.data.oea_partners | sort:'name' %}
             {% for partner in partners limit:10 %}
             <div
-                    class="col-11 col-md-5 col-sm-8 col-lg-3 col-xl-3 g-lg-0 g-xl-3 my-lg-3 my-2 my-xl-4 mx-xl-3 mx-lg-3 mx-1 my-2 justify-content-center">
+                    class="col-11 col-md-5 col-sm-8 col-lg-3 col-xl-3 g-lg-0 my-lg-3 my-2 my-xl-4 mx-xl-3 mx-lg-3 mx-1 my-2 justify-content-center">
                 <a href="{{ partner.website }}" target="_blank" style="color:222;">
-                <div class="card h-100 text-black">
-                       <div class="card-body">
-                        <ul class="list-unstyled">
-                            <li class="mb-3">
-                                <img src="{{site.baseurl}}/assets/imgs/partners/{{ partner.logo }}" alt="" height="50"
-                                     class="img-fluid w-50"/>
-                            </li>
-                            <li style="color: #055BFA;">
-                                <h6>{{ partner.name }}</h6>
-                            </li>
-                            <li>
-                                <h6 class="mb-0">{{ partner.contact_person }}</h6>
-                            </li>
-                            <li>
-                                <a class="text-black" href="mailto:{{partner.email}}">
-                                    <p class="mb-0">{{ partner.email }}</p>
-                                </a>
-                            </li>
-                            <li class="grey-text mt-2">
-                                <small class="mb-0">{{ partner.region }}</small>
-                            </li>
-                        </ul>
+                    <div class="card h-100 text-black">
+                        <div class="card-body">
+                            <ul class="list-unstyled">
+                                <li class="mb-3">
+                                    <img src="{{site.baseurl}}/assets/imgs/partners/{{ partner.logo }}" alt=""
+                                         height="50"
+                                         class="img-fluid w-50"/>
+                                </li>
+                                <li style="color: #055BFA;">
+                                    <h6>{{ partner.name }}</h6>
+                                </li>
+                                <li style="color: #6a6a6a;">
+                                    <h6 class="mb-0">{{ partner.contact_person }}</h6>
+                                </li>
+                                <li>
+                                    <a class="text-black" href="mailto:{{partner.email}}">
+                                        <p class="mb-0">{{ partner.email }}</p>
+                                    </a>
+                                </li>
+                                <li class="grey-text mt-2">
+                                    <small class="mb-0">{{ partner.region }}</small>
+                                </li>
+                            </ul>
+                        </div>
                     </div>
-                </div>
                 </a>
-                </div>
+            </div>
 
             {% endfor %}
         </div>
