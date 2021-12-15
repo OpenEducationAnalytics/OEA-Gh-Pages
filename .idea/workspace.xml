@@ -25,8 +25,11 @@
     <list default="true" id="883c08e2-ef2c-41d7-a771-9fd14e27e966" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/responsible_ai.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/responsible_ai.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/styles.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/styles.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/imgs/partners/eventful.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/assets/imgs/partners/eventful.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/oea-partners.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/oea-partners.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/responsible-ai.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/responsible-ai.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -178,7 +181,8 @@
       <workItem from="1638720064773" duration="250000" />
       <workItem from="1638720644742" duration="2396000" />
       <workItem from="1638919544485" duration="1166000" />
-      <workItem from="1639429557963" duration="756000" />
+      <workItem from="1639429557963" duration="838000" />
+      <workItem from="1639587549103" duration="243000" />
     </task>
     <servers />
   </component>
