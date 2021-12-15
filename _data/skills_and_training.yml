@@ -21,7 +21,7 @@
       image: ic_define_the_problem.svg
       alias: "PM DAE DSDA R DST"
     - name: Use Case Template
-      url: https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fmicrosoft%2FOpenEduAnalytics%2Fd0f65e4aa94ac77dffed022f00b3cf7c2386fd92%2Fdocs%2FOpen_Education_Analytics_Use_Case_Template_v2.docx&wdOrigin=BROWSELINK
+      url: https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fmicrosoft%2FOpenEduAnalytics%2Fmain%2Fdocs%2FOpen_Education_Analytics_Use_Case_Template_v3.docx&wdOrigin=BROWSELINK
       roles: [Project Managers, Data Strategy Team]
       description: A use case template for education systems to use as they plan how their data will be used and governed for specific analytics and AI purposes.
       image: ic_define_the_problem.svg
