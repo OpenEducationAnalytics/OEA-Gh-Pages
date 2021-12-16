@@ -3,7 +3,7 @@ layout: post
 title: "Azure in Action: Empowering educators to drive better education outcomes with AI and open data analytics" 
 author: Author
 category: Blog
-image: /assets/imgs/img_azure_in_action.jpg
+image: /assets/imgs/img_microsoft_azure.png
 ---
 
 The shift to hybrid learning is not just changing the way students learn – it’s producing a trove of data that can provide insights into how to better support students. 
