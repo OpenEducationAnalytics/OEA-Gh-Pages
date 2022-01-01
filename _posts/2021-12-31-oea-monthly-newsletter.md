@@ -52,7 +52,7 @@ These are all very new OEA tech assets, and we welcome contributions or feedback
 
 ##### Data Analytics and AI
 
-Community contributions are at the center of thriving open-source communities. With the improved OEA framework and <a href="https://github.com/microsoft/OpenEduAnalytics/tree/main/modules/_Creation_Kit" target="_blank">our new Module Creation Kit </a>, we’re making the process for contributing and curating new OEA modules easier, while empowering our customers and partners to make contributions to the community.
+Community contributions are at the center of thriving open-source communities. With the improved OEA framework and <a href="https://github.com/microsoft/OpenEduAnalytics/tree/main/modules/_Creation_Kit" target="_blank">our new Module Creation Kit</a>, we’re making the process for contributing and curating new OEA modules easier, while empowering our customers and partners to make contributions to the community.
 Our first customer contributions to OEA are underway. Fresno Unified School District is working on a Clever module for ingesting multi-app signals from Clever to Synapse. A Canvas module is being developed by the Tasmania Department of Education in Australia for ingesting data from the Canvas LMS. 
 
 We also have a partner working on our first module using public data, the Integrated Postsecondary Education Data System (IPEDS), which provides data from all higher ed institutions in the US. And finally, an OEA Advanced Partner has contributed a <a href="https://azuremarketplace.microsoft.com/en-US/marketplace/consulting-services/spyglassmtgllc.oea" target="_blank"> 10-week OEA based solution </a>
