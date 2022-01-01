@@ -15,6 +15,7 @@ Open Education Analytics (OEA) is a community of education systems and tech part
 - OEA GitHub Repository: <a href="https://github.com/microsoft/OpenEduAnalytics" target="_blank">https://github.com/microsoft/OpenEduAnalytics</a>
 - OEA Overview Video: <a href="https://www.youtube.com/watch?v=q6snp28bBQU&t=1s" target="_blank">OEA Overview on YouTube </a>
 
+
 ##### OEA Communities
 
 In December, we conducted US, Australia and Global OEA Community calls. The Australia OEA Community call welcomed in participants from higher ed for the first time. Under discussion was the development of a new OEA Package based on the SIF education data standard used in Australia. That will likely include an analytical data model based on the SIF standard, and be produced in the first half of 2022.
