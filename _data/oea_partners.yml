@@ -1,14 +1,16 @@
 - name: Analytikus
   contact_person: Miguel Molina-Cosculluela
   email: mmolina@analytikus.com
+  description: Empowers educational institutions through advanced analytics, machine learning and AI. Solutions include Student Success Solutions and Teaching and Learning Solutions for Higher Education.
   logo: analytikus.png
-  region: Europe
+  region: Europe & US
   region_code: EU
   website: https://www.analytikus.com/
 
 - name: ATL Systems
-  contact_person: Koushin Hamaguchi 
+  contact_person: Koushin Hamaguchi
   email: oea-support@atl-systems.co.jp
+  description: A company that connects people and IT through planning and advisory services for IT solutions in the education sector. ATL Systems provides services that meet the needs of customers and contribute to operational efficiency and cost reduction.
   logo: atlsystems.png
   region: Asia
   region_code: AS
@@ -17,14 +19,16 @@
 - name: Community Brands
   contact_person: Matt Woodruff
   email: mattw@communitybrands.uk
+  description: Education technology solutions and products include identity and access management, data extraction and aggregation, visualisation and analytics, school communications and payments and parental engagement.
   logo: communitybrands.png
-  region: Europe
+  region: Europe, US & Middle East
   region_code: EU
   website: https://www.communitybrands.uk/education-analytics/
 
 - name: Eventful
   contact_person: Douglas Potter
   email: douglas@eventful.se
+  description: A knowledge company that works with cloud services and integrations in municipal and independent schools based on Microsoft Office 365 and Google Suite to help stakeholders work easily and cost-effectively.
   logo: eventful.png
   region: Europe
   region_code: EU
@@ -33,14 +37,16 @@
 - name: Kwantum Analytics
   contact_person: Chad Vidden
   email: chad.vidden@teamkwantum.com
+  description: Collaborates with students and professors dedicated to fueling growth in education. Kwantum's education analytics is the marriage of their abilities in data and passion for education.
   logo: kwantum.png
   region: North America
   region_code: NA
   website: https://www.kwantumanalytics.com/education-analytics
-  
+
 - name: LeXP
   contact_person: Rodrigo Estevam
   email: rodrigo@lexp.com.br
+  description: Solutions and consultancies seek to support the HEI in the implementation of projects that seek a personalized education, which provides a relationship and individualized learning process, supporting each student to succeed.
   logo: lexp.png
   region: South America
   region_code: SA
@@ -49,6 +55,7 @@
 - name: MOQdigital
   contact_person: Brett Auton
   email: bauton@moqdigital.com.au
+  description: MOQdigital helps people achieve more with technology through advice, integration and operational services that allows customers to achieve business outcomes faster while getting the most out of their technology investments.
   logo: moqdigital.png
   region: Australia / Pacific
   region_code: AUS-PA
@@ -57,14 +64,16 @@
 - name: PwC
   contact_person: Deborah Henderson
   email: deborah.henderson@pwc.com
+  description: As a global Microsoft Gold Partner, PwC leverages the power of Microsoft to solve client's most important problems. PwC is focused on making a difference by driving change in Australia through six key transformational agendas.
   logo: pwc.png
   region: Australia / Pacific
   region_code: AUS-PA
   website: https://www.pwc.com.au/consulting/digital-transformation/microsoft.html
-  
+
 - name: Spyglass
   contact_person: John Francis
   email: jfrancis@spyglassmtg.com
+  description: Helps education institutions implement technology solutions that result in more engaging remote classrooms and interactive learning scenarios for both the staff and students. Solutions include Education Quality Analytics among others.
   logo: spyglass.png
   region: North America
   region_code: NA
@@ -73,6 +82,7 @@
 - name: Unicon
   contact_person: Jason Lacy
   email: jlacy@unicon.net
+  description: Enables schools, institutions, and companies to optimize learner-centric digital experiences to transform online teaching and learning. Unicon’s approach encompasses six critical aspects of learner interaction in a digital ecosystem.
   logo: unicon.png
   region: North America
   region_code: NA
