@@ -23,11 +23,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="883c08e2-ef2c-41d7-a771-9fd14e27e966" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/imgs/partners/eventful.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/assets/imgs/partners/eventful.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/imgs/partners/lexp.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/oea-partners.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/oea-partners.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -184,7 +180,7 @@
       <workItem from="1641301148405" duration="472000" />
       <workItem from="1641308548224" duration="2844000" />
       <workItem from="1641351657325" duration="255000" />
-      <workItem from="1641792078924" duration="677000" />
+      <workItem from="1641792078924" duration="997000" />
     </task>
     <servers />
   </component>
