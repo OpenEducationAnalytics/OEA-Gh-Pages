@@ -29,7 +29,7 @@
 - use_case: Setup the Modern Data Estate
   courses:
     - name: OEA Architecture Setup
-      url: https://www.youtube.com/watch?v=FxAYJamzUzQ
+      url: https://youtu.be/m0Y88bQ644E
       roles: [Data Architects and Engineers, Data Scientists and Analysts, Researchers]
       description: Using the OEA toolkit, education data teams and researchers can set up the modern data estate in minutes, using best in class architectures developed by Microsoft Education.
       image: ic_setup.svg
