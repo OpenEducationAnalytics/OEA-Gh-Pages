@@ -80,15 +80,6 @@
   website: https://www.spyglassmtg.com/industry-solutions-edu
   
 - name: Terawe
-  contact_person: John Francis
-  email: jfrancis@spyglassmtg.com
-  description: Helps education institutions implement technology solutions that result in more engaging remote classrooms and interactive learning scenarios for both the staff and students. Solutions include Education Quality Analytics among others.
-  logo: spyglass.png
-  region: North America
-  region_code: NA
-  website: https://www.spyglassmtg.com/industry-solutions-edu
-
-- name: Unicon
   contact_person: Steven Duggan
   email: stevend@terawe.com
   description: A Global IT Solutions and Services company with 30+ years’ experience in education, working with clients including Ministries of Education, Universities and Schools with deep expertise in AI, Predictive Analytics, Machine Learning and Cognitive Services.
@@ -96,3 +87,14 @@
   region: North America
   region_code: NA
   website: https://www.terawe.com/
+  
+- name: Unicon
+  contact_person: Jason Lacy
+  email: jlacy@unicon.net
+  description: Enables schools, institutions, and companies to optimize learner-centric digital experiences to transform online teaching and learning. Unicon’s approach encompasses six critical aspects of learner interaction in a digital ecosystem.
+  logo: unicon.png
+  region: North America
+  region_code: NA
+  website: https://www.unicon.net/
+  
+  
