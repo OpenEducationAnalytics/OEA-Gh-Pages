@@ -26,7 +26,7 @@ The Community is inspired by the stories and insights of those systems sharing t
 - Helsinki Education Division’s dashboards and modelling of student well-being:
 
 <div class="container-wrapper text-center">
-   <img src="{{ site.baseurl }}/assets/imgs/posts/img_azerbaijan_chart.jpg" class="img-fluid w-100" alt="" />
+   <img src="{{ site.baseurl }}/assets/imgs/posts/img_helsinki_pedadogical.png" class="img-fluid w-100" alt="" />
 </div>
 
 All of these use case examples are being collected in the Global OEA Community Team, in a library of presentations and materials. We are working to make many of these use cases open-source packages in the OEA GitHub repository so that education systems can leverage them to jumpstart projects.
@@ -52,7 +52,7 @@ The model development cycle started with clearly defining the use case using the
 and landing it in the OEA Azure Synapse environment, data transformation and exploration, building and testing the models, and creating PowerBI dashboards that present the results of the predictive model.
 
 <div class="container-wrapper text-center">
-   <img src="{{ site.baseurl }}/assets/imgs/posts/img_helsinki_pedadogical.png" class="img-fluid w-100" alt="" />
+   <img src="{{ site.baseurl }}/assets/imgs/posts/img_fresno_chronic_absenteeism.png" class="img-fluid w-100" alt="" />
 </div>
 
 The data team worked in partnership with Fresno’s Department of Program and Intervention to understand the scope of the problem and what could be done with the 
