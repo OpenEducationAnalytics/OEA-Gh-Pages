@@ -28,7 +28,7 @@ The Community is inspired by the stories and insights of those systems sharing t
 <div class="container-wrapper text-center">
    <img src="{{ site.baseurl }}/assets/imgs/posts/img_helsinki_pedadogical.png" class="img-fluid w-100" alt="" />
 </div>
-Figure 1: Pedagogical well being PowerBI dashboard by Helsinki Education Division
+*Figure 1: Pedagogical well being PowerBI dashboard by Helsinki Education Division*
 
 All of these use case examples are being collected in the Global OEA Community Team, in a library of presentations and materials. We are working to make many of these use cases open-source packages in the OEA GitHub repository so that education systems can leverage them to jumpstart projects.
 
@@ -55,6 +55,7 @@ and landing it in the OEA Azure Synapse environment, data transformation and exp
 <div class="container-wrapper text-center">
    <img src="{{ site.baseurl }}/assets/imgs/posts/img_fresno_chronic_absenteeism.png" class="img-fluid w-100" alt="" />
 </div>
+*Figure 2: Fresno’s Chronic Absenteeism PowerBI dashboard by Kwantum Analytics*
 
 The data team worked in partnership with Fresno’s Department of Program and Intervention to understand the scope of the problem and what could be done with the 
 predictive model. We are currently exploring how to automate interventions to support the small team of professionals responsible for addressing chronic absenteeism 
