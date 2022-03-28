@@ -34,7 +34,7 @@ All of these use case examples are being collected in the Global OEA Community T
 >   
 > The Institute is using OEA to provide analytics to researchers and school districts using Math Nation, an app used by over 3 million students in the US.
 > 
-> See the great story here to have an idea of how OEA can be used to provide a research solution for edtech efficacy. 
+> See the great story <a href="https://customers.microsoft.com/en-us/story/1448383859637452651-mathnation-k12-edu-azure-en-united-states">here </a> to have an idea of how OEA can be used to provide a research solution for edtech efficacy. 
 
 ##### Data Analytics and AI
 
@@ -44,7 +44,7 @@ high poverty and rich ethnic diversity, solving the problem of chronic absenteei
 greater chances of success. Aside from its impact on the students and the schools in the district, chronic absenteeism also affects how schools are reimbursed, 
 so even a 1% increase in absenteeism rates could lead to a loss of millions of dollars annually. 
 For our predictive modeling work, the focus was on students in kindergarten to third grade, where chronic absenteeism (defined as missing more than 10% of school days) is over 40%. 
-The model development cycle started with clearly defining the use case using the OEA Use Case template, stakeholder meetings, identifying needed data
+The model development cycle started with clearly defining the use case using the <a href="https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fmicrosoft%2FOpenEduAnalytics%2Fmain%2Fdocs%2FOpen_Education_Analytics_Use_Case_Template_v3.docx&wdOrigin=BROWSELINK" target="_blank"> OEA Use Case template </a>, stakeholder meetings, identifying needed data
 and landing it in the OEA Azure Synapse environment, data transformation and exploration, building and testing the models, and creating PowerBI dashboards that present the results of the predictive model.
 
 The data team worked in partnership with Fresno’s Department of Program and Intervention to understand the scope of the problem and what could be done with the 
@@ -60,9 +60,3 @@ OEA partners are also expanding the reach of Microsoft Data and AI through OEA. 
 that will be focusing on Multi Academy Trust and Independent school networks, which make up almost half of the UK K-12 education sector. 
 In addition, Community Brands is leading efforts to communicate about OEA through posts like this on LinkedIn that describe what is needed to advance analytics 
 and AI in the UK education sector. Similarly, Analytikus hosted a regional OEA webinar on March 3rd in Spanish for the Latin American region. 
-
-##### Partner Enablement
-
-Quarterly OEA Partner meetings took place in 2 time zones on January. Our OEA Partners launched the discussion providing insights on their own OEA related work. Spyglass presented its new <a href="https://azuremarketplace.microsoft.com/en-US/marketplace/consulting-services/spyglassmtgllc.oea" target="_blank"> 10-week OEA solution </a> package for Higher Education on Azure Marketplace. Then Community Brands described its work to develop a predictive model of students at risk with Greenwood Academies Trust in the UK, and how it developed principles of responsible AI as part of that work. Trivium BI also shared their technical contribution of the new IPEDS module, inviting partners to use this data source as part of their solutions.  
-
-During the meetings, the OEA team provided Azure technical updates from Ignite, as well as a deeper dive into the use case example of Digital Learning Insights. Various existing OEA modules can be leveraged for this use case, such as Education Insights, Microsoft Graph, and Clever modules.
