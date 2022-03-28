@@ -1,6 +1,6 @@
 ---
 layout: post
-title: OEA February and March 2022 Newsletter
+title: OEA February & March 2022 Newsletter
 author: Author
 description: In this newsletter, we share updates on the v0.6 OEA framework release, skills reporting and CLRs and others.
 category: Newsletter
