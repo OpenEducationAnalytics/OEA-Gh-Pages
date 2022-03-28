@@ -1,6 +1,6 @@
 ---
 layout: post
-title: OEA Februry and March 2022 Newsletter
+title: OEA February and March 2022 Newsletter
 author: Author
 description: In this newsletter, we share updates on the v0.6 OEA framework release, skills reporting and CLRs and others.
 category: Newsletter
@@ -25,6 +25,10 @@ The Community is inspired by the stories and insights of those systems sharing t
 - Forsyth County School’s (Georgia) predictive model and automated notification system for students at risk for high school graduation
 - Helsinki Education Division’s dashboards and modelling of student well-being:
 
+<div class="container-wrapper text-center">
+   <img src="{{ site.baseurl }}/assets/imgs/posts/img_azerbaijan_chart.jpg" class="img-fluid w-100" alt="" />
+</div>
+
 All of these use case examples are being collected in the Global OEA Community Team, in a library of presentations and materials. We are working to make many of these use cases open-source packages in the OEA GitHub repository so that education systems can leverage them to jumpstart projects.
 
 >
@@ -47,11 +51,14 @@ For our predictive modeling work, the focus was on students in kindergarten to t
 The model development cycle started with clearly defining the use case using the <a href="https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fmicrosoft%2FOpenEduAnalytics%2Fmain%2Fdocs%2FOpen_Education_Analytics_Use_Case_Template_v3.docx&wdOrigin=BROWSELINK" target="_blank"> OEA Use Case template</a>, stakeholder meetings, identifying needed data
 and landing it in the OEA Azure Synapse environment, data transformation and exploration, building and testing the models, and creating PowerBI dashboards that present the results of the predictive model.
 
+<div class="container-wrapper text-center">
+   <img src="{{ site.baseurl }}/assets/imgs/posts/img_helsinki_pedadogical.png" class="img-fluid w-100" alt="" />
+</div>
+
 The data team worked in partnership with Fresno’s Department of Program and Intervention to understand the scope of the problem and what could be done with the 
 predictive model. We are currently exploring how to automate interventions to support the small team of professionals responsible for addressing chronic absenteeism 
 in Fresno and tracking the impact of those interventions. 
-Kwantum Analytics presented this predictive model at the March US OEA Community, and it is viewable in the US Regional Meetings Recordings folder in the 
-Global OEA Community Team.
+Kwantum Analytics presented this predictive model at the March US OEA Community, and it is viewable in the Global OEA Community Team.
 
 ##### OEA Partners Expanding the Program
 OEA Partners are expanding the scale of OEA. Since the start of the OEA Partner Program in September 2021, over 30 technical partners have joined the “entry” level 
