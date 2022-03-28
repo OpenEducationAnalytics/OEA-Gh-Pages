@@ -28,6 +28,7 @@ The Community is inspired by the stories and insights of those systems sharing t
 <div class="container-wrapper text-center">
    <img src="{{ site.baseurl }}/assets/imgs/posts/img_helsinki_pedadogical.png" class="img-fluid w-100" alt="" />
 </div>
+Figure 1: Pedagogical well being PowerBI dashboard by Helsinki Education Division
 
 All of these use case examples are being collected in the Global OEA Community Team, in a library of presentations and materials. We are working to make many of these use cases open-source packages in the OEA GitHub repository so that education systems can leverage them to jumpstart projects.
 
