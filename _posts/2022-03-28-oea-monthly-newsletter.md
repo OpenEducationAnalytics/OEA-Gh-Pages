@@ -44,7 +44,7 @@ high poverty and rich ethnic diversity, solving the problem of chronic absenteei
 greater chances of success. Aside from its impact on the students and the schools in the district, chronic absenteeism also affects how schools are reimbursed, 
 so even a 1% increase in absenteeism rates could lead to a loss of millions of dollars annually. 
 For our predictive modeling work, the focus was on students in kindergarten to third grade, where chronic absenteeism (defined as missing more than 10% of school days) is over 40%. 
-The model development cycle started with clearly defining the use case using the <a href="https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fmicrosoft%2FOpenEduAnalytics%2Fmain%2Fdocs%2FOpen_Education_Analytics_Use_Case_Template_v3.docx&wdOrigin=BROWSELINK" target="_blank"> OEA Use Case template </a>, stakeholder meetings, identifying needed data
+The model development cycle started with clearly defining the use case using the <a href="https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fmicrosoft%2FOpenEduAnalytics%2Fmain%2Fdocs%2FOpen_Education_Analytics_Use_Case_Template_v3.docx&wdOrigin=BROWSELINK" target="_blank"> OEA Use Case template</a>, stakeholder meetings, identifying needed data
 and landing it in the OEA Azure Synapse environment, data transformation and exploration, building and testing the models, and creating PowerBI dashboards that present the results of the predictive model.
 
 The data team worked in partnership with Fresno’s Department of Program and Intervention to understand the scope of the problem and what could be done with the 
