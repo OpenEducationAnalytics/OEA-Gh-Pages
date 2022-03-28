@@ -55,8 +55,8 @@ Global OEA Community Team.
 
 ##### OEA Partners Expanding the Program
 OEA Partners are expanding the scale of OEA. Since the start of the OEA Partner Program in September 2021, over 30 technical partners have joined the “entry” level 
-of the program, and 12 have become OEA Advanced partners who are qualified to deploy OEA-based analytics solutions. 
+of the program, and 12 have become <a href="https://openeducationanalytics.org/partners/" target="_blank"> OEA Advanced partners </a> who are qualified to deploy OEA-based analytics solutions. 
 OEA partners are also expanding the reach of Microsoft Data and AI through OEA. At BETT in London Community Brands is initiating a new UK OEA Customer Community 
 that will be focusing on Multi Academy Trust and Independent school networks, which make up almost half of the UK K-12 education sector. 
-In addition, Community Brands is leading efforts to communicate about OEA through posts like this on LinkedIn that describe what is needed to advance analytics 
+In addition, Community Brands is leading efforts to communicate about OEA through  <a href="https://www.linkedin.com/pulse/future-education-analytics-open-matt-woodruff/?trackingId=fWSUrvlIQ3Cs0qfp3JfNgQ%3D%3D" target="_blank"> posts like this </a> on LinkedIn that describe what is needed to advance analytics 
 and AI in the UK education sector. Similarly, Analytikus hosted a regional OEA webinar on March 3rd in Spanish for the Latin American region. 
