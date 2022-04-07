@@ -88,6 +88,15 @@
   region_code: NA
   website: https://www.terawe.com/
   
+- name: Uchida Yoko
+  contact_person: Naoto Hatakeyama
+  email: jml-ucdoea@uchida.co.jp
+  description: Building learning spaces for the cloud computing era that make use of each and every user console, based on a diverse range of educational ICT installation experience and school environment expertise.
+  logo: uchida.jpg
+  region: Asia
+  region_code: AS
+  website: https://www.uchida.co.jp/global/index.html
+  
 - name: Unicon
   contact_person: Jason Lacy
   email: jlacy@unicon.net
