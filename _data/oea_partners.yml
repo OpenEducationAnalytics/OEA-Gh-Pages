@@ -7,14 +7,14 @@
   region_code: EU
   website: https://www.analytikus.com/
   
-- name: Analytikus
-  contact_person: Miguel Molina-Cosculluela
-  email: mmolina@analytikus.com
-  description: Empowers educational institutions through advanced analytics, machine learning and AI. Solutions include Student Success Solutions and Teaching and Learning Solutions for Higher Education.
-  logo: analytikus.png
-  region: South America & US
+- name: Antares Solutions
+  contact_person: Sulabh Jain
+  email: sulabhj@antaressolutions.com.au
+  description: Focuses on delivering end-to-end analytics solutions that help schools and students to reach their full potential. When it comes to working smarter, Antares is the team for you. From information technologies that unite teams across departments to data analytics which will lead your organisation in new directions – their goal in education is to equip students and teachers with the tools they need to do what matters most: impact more people and better serve their communities.
+  logo: antares.png
+  region: Europe
   region_code: EU
-  website: https://www.analytikus.com/
+  website: https://antares.solutions/industries/education/
 
 - name: ATL Systems
   contact_person: Koushin Hamaguchi
