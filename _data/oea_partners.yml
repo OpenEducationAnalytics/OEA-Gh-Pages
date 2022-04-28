@@ -30,8 +30,8 @@
   email: edu@encamina.com
   description: A technological consulting company with more than 20 years of experience in the IT sector with the mission of driving the best of professionals and processes of medium and large organizations around the world, through SaaS applications and relevant projects, leveraging their digital footprint products and excellence in the best Microsoft cloud technology.
   logo: encamina.png
-  region: Europe
-  region_code: Europe, South America & Middle East
+  region: Europe, South America & Middle East
+  region_code: EU
   website: https://www.encamina.com/en/productivity-solutions-for-the-education-sector/
 
 - name: Eventful
