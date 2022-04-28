@@ -24,6 +24,15 @@
   region: Europe, US & Middle East
   region_code: EU
   website: https://www.communitybrands.uk/education-analytics/
+  
+- name: ENCAMINA 
+  contact_person: Antonio Reinón
+  email: edu@encamina.com
+  description: is a technological consulting company with more than 20 years of experience in the IT sector. Our mission is to drive the best of professionals and processes of medium and large organizations around the world, through SaaS applications and relevant projects, leveraging our digital footprint products and our excellence in the best Microsoft cloud technology. Our differentiating factor is to work "Thinking in Colors", in a fresh, optimistic, and as a team, putting our focus on people, talent and innovation.
+  logo: encamina.png
+  region: Europe
+  region_code: Europe, South America & Middle East
+  website: https://www.encamina.com/en/productivity-solutions-for-the-education-sector/
 
 - name: Eventful
   contact_person: Douglas Potter
