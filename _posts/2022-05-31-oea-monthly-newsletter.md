@@ -74,7 +74,7 @@ invited to a panel at the ASU-GSV Summit in San Diego. The topic for the panel d
 Data Open-Source Initiative and was the second most attended Microsoft session at the Summit! We talked about how we are accelerating education systems' shift to 
 modern data services, enabling real time analytics, and co-developing AI use cases for education. During this session, participants heard from district, state, 
 higher education, and national leaders about how they are collaborating through OEA to develop new state and national education analytics, build more accurate 
-predictive models, enable competency-based and digital equity reporting, and analyze tech and other program investments in real time. [<a href="https://www.youtube.com/watch?v=tHhUEqygr30" target="_blank">Watch the recording </a>] 
+predictive models, enable competency-based and digital equity reporting, and analyze tech and other program investments in real time. [<a href="https://www.youtube.com/watch?v=tHhUEqygr30" target="_blank">Watch the recording</a>] 
  
 Our OEA Partners, Community Brands and LeXP, are launching 2 new regional OEA Communities in the UK and Brazil. In the UK, the Community’s focus will be with 
 multi-academy trusts, whereas the OEA Brazil Community will start with higher education institutions. 
