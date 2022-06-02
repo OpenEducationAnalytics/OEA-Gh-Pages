@@ -54,10 +54,10 @@ that engaged the community in a deeper technical discussion. This is based on wo
 effort.  
  
 As we continue to refine and extend the OEA reference architecture, we have recently begun formulating guidance regarding best practices from a process point of view. 
-In the software development world, the set of practices referred to as DevOps has enabled development teams to greatly increase their productivity by shortening the 
+In the software development world, the set of practices referred to as <a href="https://docs.microsoft.com/en-us/learn/modules/introduction-to-devops/" target="_blank">DevOps </a> has enabled development teams to greatly increase their productivity by shortening the 
 development lifecycle through agile processes and automation practices including CI/CD (continuous integration/continuous deployment) leading to an ever-increasing 
 set of advanced features in Azure DevOps as well as GitHub and other developer tools, focused on facilitating best practices for DevOps. This has also led to the 
-refinement of similar development lifecycle processes including DataOps and MLOps.  
+refinement of similar development lifecycle processes including <a href="https://docs.microsoft.com/en-us/azure/architecture/checklist/data-ops" target="_blank">DataOps </a> and <a href="https://docs.microsoft.com/en-us/learn/paths/introduction-machine-learn-operations/" target="_blank">MLOps </a>.  
  
 As part of the ever-growing OEA community discussions and goals, we're learning more about how our customers and partners approach the DataOps and MLOps challenges, 
 both from a process standpoint as well as tooling approach. From these discussions and direct development engagements we are building out the process guidance as well
@@ -74,7 +74,7 @@ invited to a panel at the ASU-GSV Summit in San Diego. The topic for the panel d
 Data Open-Source Initiative and was the second most attended Microsoft session at the Summit! We talked about how we are accelerating education systems' shift to 
 modern data services, enabling real time analytics, and co-developing AI use cases for education. During this session, participants heard from district, state, 
 higher education, and national leaders about how they are collaborating through OEA to develop new state and national education analytics, build more accurate 
-predictive models, enable competency-based and digital equity reporting, and analyze tech and other program investments in real time. [Watch the recording] 
+predictive models, enable competency-based and digital equity reporting, and analyze tech and other program investments in real time. [<a href="https://www.youtube.com/watch?v=tHhUEqygr30" target="_blank">Watch the recording </a>] 
  
 Our OEA Partners, Community Brands and LeXP, are launching 2 new regional OEA Communities in the UK and Brazil. In the UK, the Community’s focus will be with 
 multi-academy trusts, whereas the OEA Brazil Community will start with higher education institutions. 
