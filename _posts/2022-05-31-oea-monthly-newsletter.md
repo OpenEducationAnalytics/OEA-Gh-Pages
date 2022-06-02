@@ -68,7 +68,7 @@ as the ticket backlog templates and CI/CD pipelines that can be shared with the 
 <div class="container-wrapper text-center">
    <img src="{{ site.baseurl }}/assets/imgs/posts/img_oea_lifecycles.png" class="img-fluid w-100" alt="" />
 </div>
-*Figure 1: Pedagogical well being PowerBI dashboard by Helsinki Education Division*
+*Figure 1: OEA Lifecycles*
 
 ##### Field and Communities
 In April, the OEA team and community members from the Council of Chief School Officers, Bill and Melinda Gates Foundation, and Fresno Unified School District were 
