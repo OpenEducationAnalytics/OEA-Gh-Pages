@@ -65,6 +65,11 @@ As part of the ever-growing OEA community discussions and goals, we're learning 
 both from a process standpoint as well as tooling approach. From these discussions and direct development engagements we are building out the process guidance as well
 as the ticket backlog templates and CI/CD pipelines that can be shared with the community along with the other OEA assets. 
 
+<div class="container-wrapper text-center">
+   <img src="{{ site.baseurl }}/assets/imgs/posts/img_oea_lifecycles.png" class="img-fluid w-100" alt="" />
+</div>
+*Figure 1: Pedagogical well being PowerBI dashboard by Helsinki Education Division*
+
 ##### Field and Communities
 In April, the OEA team and community members from the Council of Chief School Officers, Bill and Melinda Gates Foundation, and Fresno Unified School District were 
 invited to a panel at the ASU-GSV Summit in San Diego. The topic for the panel discussion was Modernizing Education Systems' Data and AI Strategies: A Global Education
