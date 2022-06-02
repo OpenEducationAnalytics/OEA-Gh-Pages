@@ -16,9 +16,7 @@ Open Education Analytics (OEA) is a community of education systems and tech part
 - OEA Overview Video: <a href="https://www.youtube.com/watch?v=q6snp28bBQU&t=1s" target="_blank">OEA Overview on YouTube </a>
 
 ##### OEA Partners
-We are excited to kick off a new partner training program in Africa this quarter! OEA is partnering with the African Institute of Mathematical Sciences (AIMS), 
-a pan-African network of centers of excellence enabling Africa’s talented students to become data innovators driving the continent’s scientific, educational and 
-economic self-sufficiency. For phase one of this project, we will be training their IT staff, faculty and Master’s students using the OEA curriculum, to enable t
+We are excited to kick off a new partner training program in Africa this quarter! OEA is partnering with the <a href="https://nexteinstein.org/" target="_blank"> African Institute of Mathematical Sciences (AIMS) </a>, a pan-African network of centers of excellence enabling Africa’s talented students to become data innovators driving the continent’s scientific, educational and economic self-sufficiency. For phase one of this project, we will be training their IT staff, faculty and Master’s students using the OEA curriculum, to enable t
 hem to do OEA deployments, data engineering and analytics. Concurrently, we will be exploring use cases for the Rwanda Ministry of Education focused on learning 
 outcomes of students, and for Senegal, how teachers improved after they were given digital skills training. 
  
@@ -41,11 +39,11 @@ provided tech roadmap and training information, and shared new GitHub contributi
 
 ##### Data Analytics and AI
 OEA officially published a new open-source package to support education systems in developing predictive models of Chronic Absenteeism. Working with Fresno Unified 
-School District and Kwantum Analytics, the package includes Use Case Documentation that combines prior research and the application of principles of responsible AI 
+School District and Kwantum Analytics, the <a href="https://github.com/microsoft/OpenEduAnalytics/tree/main/packages/Chronic_Absenteeism" target="_blank">package </a> includes Use Case Documentation that combines prior research and the application of principles of responsible AI 
 to the project, data pipelines, data visualization concepts, and the tools to deploy this type of predictive model. Other education systems and partners are welcome
 to use these technical assets to address challenges of absenteeism in their schools.   
   
-We have published Microsoft’s School Transformation Survey (STS) as an OEA module, where STS data can be ingested into an OEA Azure data lake and used in analytics
+We have published Microsoft’s School Transformation Survey (STS) as an <a href="https://github.com/microsoft/OpenEduAnalytics/tree/main/modules/Microsoft_School_Transformation_Survey" target="_blank">OEA module </a>, where STS data can be ingested into an OEA Azure data lake and used in analytics
 as part of education use cases to help schools begin their education transformation and to measure their progress. The School Transformation Survey is a free, 
 self-hosted survey that measures the perceptions of educators and leaders on the current state of innovative teaching practices in their schools or classrooms. 
 It is a self-review and serves as an important first step in raising awareness of each school’s current state of transformation. 
