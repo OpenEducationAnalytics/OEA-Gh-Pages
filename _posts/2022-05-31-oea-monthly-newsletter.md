@@ -16,10 +16,8 @@ Open Education Analytics (OEA) is a community of education systems and tech part
 - OEA Overview Video: <a href="https://www.youtube.com/watch?v=q6snp28bBQU&t=1s" target="_blank">OEA Overview on YouTube </a>
 
 ##### OEA Partners
-We are excited to kick off a new partner training program in Africa this quarter! OEA is partnering with the <a href="https://nexteinstein.org/" target="_blank"> African Institute of Mathematical Sciences (AIMS) </a>, a pan-African network of centers of excellence enabling Africa’s talented students to become data innovators driving the continent’s scientific, educational and economic self-sufficiency. For phase one of this project, we will be training their IT staff, faculty and Master’s students using the OEA curriculum, to enable t
-hem to do OEA deployments, data engineering and analytics. Concurrently, we will be exploring use cases for the Rwanda Ministry of Education focused on learning 
-outcomes of students, and for Senegal, how teachers improved after they were given digital skills training. 
- 
+We are excited to kick off a new partner training program in Africa this quarter! OEA is partnering with the <a href="https://nexteinstein.org/" target="_blank"> African Institute of Mathematical Sciences (AIMS) </a>, a pan-African network of centers of excellence enabling Africa’s talented students to become data innovators driving the continent’s scientific, educational and economic self-sufficiency. For phase one of this project, we will be training their IT staff, faculty and Master’s students using the OEA curriculum, to enable them to do OEA deployments, data engineering and analytics. Concurrently, we will be exploring use cases for Ministries of Education in Africa.
+
 The Microsoft Global Education Partners Summit was held virtually on April 26-28 and provided an opportunity for our Microsoft Education partners to gain insights 
 into Microsoft’s Education Business. The OEA team organized a roundtable discussion on data and AI with OEA Advanced Partner companies Analytikus, Community Brands, 
 Spyglass, Antares, and MOQDigital. The roundtable introduced education data and analytics use cases to the partners and recruited new OEA Partners. Our session at 
