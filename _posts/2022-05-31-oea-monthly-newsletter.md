@@ -80,6 +80,6 @@ multi-academy trusts, whereas the OEA Brazil Community will start with higher ed
 During the last Australia OEA Community call, Rohan Kumar, CVP of Data and AI, Azure gave an overview of the data and AI product announcements in May. 
 
 ##### Plans for June/July
-- Expansion to Africa: training sessions for the African Institute of Mathematical Sciences and use case exploration for the Ministry of Education in Rwanda 
+- Expansion to Africa: training sessions for the African Institute of Mathematical Sciences and use case exploration for the Ministry of Education in Africa 
 - Publishing of Canvas module and Digital Equity package 
 - Global OEA community call in June  
