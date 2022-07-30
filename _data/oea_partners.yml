@@ -61,6 +61,15 @@
   region_code: EU
   website: https://www.eventful.se/en/startpage/
 
+- name: Insight Enterprises, Inc.
+  contact_person: Gareth Saunders
+  email: Gareth.saunders@insight.com
+  description: A Fortune 500 solutions integrator and Microsoft Gold Partner with more than 11,500 teammates worldwide helping organisations accelerate their digital journey to modernise their business and maximise the value of technology.
+  logo: insight.jpg
+  region: Australia / Pacific & Asia
+  region_code: AUS-PA
+  website: https://au.insight.com/en_AU/what-we-do/vertical/education.html
+
 - name: Kwantum Analytics
   contact_person: Chad Vidden
   email: chad.vidden@teamkwantum.com
