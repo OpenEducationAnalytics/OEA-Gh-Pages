@@ -24,6 +24,15 @@
   region: Asia
   region_code: AS
   website: https://www.atl-systems.co.jp/
+  
+- name: Capgemini
+  contact_person: Andreas Nerlich
+  email: andreas.nerlich@capgemini.com
+  description: Helps organizations build their data foundation, enhancing, expanding, and advancing their existing data capabilities with powerful accelerators, frameworks, methodologies, and best practices gathered from decades of experience by a market-leading Insights & Data team. 
+  logo: capgemini.png
+  region: Australia / Pacific & Asia
+  region_code: AUS-PA
+  website: https://www.capgemini.com/au-en/service/perform-ai/do-good-with-data-ai/ai-for-education/
 
 - name: Community Brands
   contact_person: Matt Woodruff
