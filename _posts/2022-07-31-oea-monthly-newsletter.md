@@ -35,8 +35,7 @@ education institutions have joined the new Brazilian community for monthly discu
 UniCesumar, Unigranrio and ESPM are now available on-demand for everyone in the community. It has been a great opportunity to confirm institutions everywhere face 
 similar challenges, and how they learn from and share with each other. 
 
-As we learn from our community members, we're always looking for ways to help discover from and share with  peers around the world. We have made improvements to the OEA Community Team
-to improve discoverability of resources and recordings. Please check out the Community Team for these updates!
+As we learn from our community members, we're always looking for ways to help discover from and share with  peers around the world. We have made improvements to the OEA Community Team to enhance discoverability of resources and recordings. Please check out the Community Team for these updates!
 
 ##### Data Analytics and AI
 In partnership with Fresno Unified School District in California and Kwantum Analytics, we have published a new <a href="https://github.com/microsoft/OpenEduAnalytics/tree/main/oea/packages/package_catalog/Digital_Equity_of_Access" target="_blank">OEA package </a> on Digital Equity of Access. While education
