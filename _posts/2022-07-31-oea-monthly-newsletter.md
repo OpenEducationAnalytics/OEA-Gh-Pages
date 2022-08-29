@@ -14,7 +14,7 @@ Open Education Analytics (OEA) is a community of education systems and tech part
 - OEA Website: <a href="https://openeducationanalytics.org" target="_blank">https://openeducationanalytics.org </a>
 - OEA GitHub Repository: <a href="https://github.com/microsoft/OpenEduAnalytics" target="_blank">https://github.com/microsoft/OpenEduAnalytics</a>
 - OEA Overview Video: <a href="https://www.youtube.com/watch?v=q6snp28bBQU&t=1s" target="_blank">OEA Overview on YouTube </a>
-<a href="https://docs.microsoft.com/en-us/azure/architecture/checklist/data-ops" target="_blank">DataOps </a>
+
 ##### OEA Communities
 Over 100 education systems and higher education institutions are now members of the Global OEA Community team, and they are participating in both global and regional 
 OEA meetings. In upcoming OEA Community calls, we will discuss ideas for some significant changes to how these communities collaborate going forward. 
@@ -65,13 +65,13 @@ please email OpenEduAnalyticsteam@microsoft.com.
 > <div class="container-wrapper text-center">
    <img src="{{ site.baseurl }}/assets/imgs/posts/img_learning_impact_conference.png" class="img-fluid w-100" alt="" />
 </div>
-*Figure: OEA Presentation at the 1EdTech Learning Impact conference*
-
+>*Figure: OEA Presentation at the 1EdTech Learning Impact conference*
+>
 > 
 > Fresno’s school district’s OEA-based data analytics solution on equity of digital access was highlighted at the event. The technical assets, documentation and instructions for setting this up in a school system’s environment are now available as the <a href="https://github.com/microsoft/OpenEduAnalytics/tree/main/oea/packages/package_catalog/Digital_Equity_of_Access" target="_blank">OEA package on Digital Equity of Access</a>.  
 
- ##### Data Engineering
- This year’s <a href="https://web.cvent.com/event/1fa13152-c746-472f-a4c4-8e899e3222a5/summary" target="_blank">Learning Impact </a> conference, the largest annual conference for 1EdTech (<a href="https://www.imsglobal.org/article/ims-rebranding-1edtech-2022" target="_blank">formerly known as IMS Global </a>), was held in mid-June in Nashville and was well attended by representatives from the global edtech community. OEA principal architect was invited to present an overview of OEA in a recorded (and available on-demand) session, and he was also invited to participate in a panel discussion entitled “Great Data… From 3000 Apps.” In both sessions, he took the opportunity to highlight the accomplishments achieved to date within the OEA community, as well as the work in progress, and then some joint aspirations – 
+##### Data Engineering
+This year’s <a href="https://web.cvent.com/event/1fa13152-c746-472f-a4c4-8e899e3222a5/summary" target="_blank">Learning Impact </a> conference, the largest annual conference for 1EdTech (<a href="https://www.imsglobal.org/article/ims-rebranding-1edtech-2022" target="_blank">formerly known as IMS Global </a>), was held in mid-June in Nashville and was well attended by representatives from the global edtech community. OEA principal architect was invited to present an overview of OEA in a recorded (and available on-demand) session, and he was also invited to participate in a panel discussion entitled “Great Data… From 3000 Apps.” In both sessions, he took the opportunity to highlight the accomplishments achieved to date within the OEA community, as well as the work in progress, and then some joint aspirations – 
 especially within the context of education data standards and how they fit into the OEA framework (see standards at left in diagram): 
 
 <div class="container-wrapper text-center">
