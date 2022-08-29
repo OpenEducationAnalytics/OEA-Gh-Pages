@@ -62,11 +62,6 @@ please email OpenEduAnalyticsteam@microsoft.com.
 >  As noted above, the pandemic aggravated inequalities in access to devices and internet connectivity, creating an opportunity for school systems to prioritize student digital access and inclusion more than ever before. Last month, Fresno Unified School District in California participated in the <a href="https://abc30.com/digital-inclusion-fresno-coalition-for-speed-of-broadband-all-virtual-town-hall-edison-high-school/12025685/" target="_blank">Solutions at the Speed of Broadband for All Townhall </a> as part of the Fresno Coalition for Digital Inclusion. This was an event for state and national leaders to work together to close the digital inclusion divide for families. 
 >   
 > Superintendent Jim Yovino, acknowledging how critical this is in his 32 school districts said: "If our kids in our Valley do not have access, the same equal access that every child in this Valley has, then they are behind". 
-> <div class="container-wrapper text-center">
-   <img src="{{ site.baseurl }}/assets/imgs/posts/img_learning_impact_conference.png" class="img-fluid w-100" alt="" />
-</div>
->*Figure: OEA Presentation at the 1EdTech Learning Impact conference*
->
 > 
 > Fresno’s school district’s OEA-based data analytics solution on equity of digital access was highlighted at the event. The technical assets, documentation and instructions for setting this up in a school system’s environment are now available as the <a href="https://github.com/microsoft/OpenEduAnalytics/tree/main/oea/packages/package_catalog/Digital_Equity_of_Access" target="_blank">OEA package on Digital Equity of Access</a>.  
 
@@ -91,9 +86,9 @@ attendees and served as yet another validation of the importance of the work we�
 - Publishing SIF and Ed-Fi data standards modules in OEA GitHub
 
 ##### Product Support
-For any Power BI question. 
-- Post your question in general tab in https://aka.ms/pbicat 
-- Contact your local expert (PBI 50) who knows how to engage the PBI product group: https://microsoft.sharepoint.com/teams/PBICATPortal/SitePages/Marquee.aspx?historyId=7BAF2FC2-4543-493C-AFD2-AD4E0B5FC64E&contentId=91DD67E2-07DE-4E4C-B73E-37986385CC2C 
+For any Power BI question: 
+- Post your question in general tab in <a href="https://aka.ms/pbicat " target="_blank">https://aka.ms/pbicat</a> 
+- Contact your local expert (PBI 50) who knows how to engage the :<a href="https://aka.ms/pbicat</a>  https://microsoft.sharepoint.com/teams/PBICATPortal/SitePages/Marquee.aspx?historyId=7BAF2FC2-4543-493C-AFD2-AD4E0B5FC64E&contentId=91DD67E2-07DE-4E4C-B73E-37986385CC2C" target="_blank"> PBI product group</a> 
  
 For any Synapse question, you can post a question on this <a href="https://teams.microsoft.com/_?tenantId=72f988bf-86f1-41af-91ab-2d7cd011db47#/l/team/19:UgZ55PTYhXk7xj7T2luIBIuSJcy6RzWlm2fbfx4VSZ01@thread.tacv2/conversations?groupId=c89b27d7-91c1-4cc7-aa61-c6633c2e3904&tenantId=72f988bf-86f1-41af-91ab-2d7cd011db47&deeplinkId=06305baa-bf49-4071-b43f-9433c36462c6
 " target="_blank">Team </a>  site or make a request to the Azure CSE team by submitting a nomination <a href="https://microsoft.sharepoint.com/teams/SynapseCSE/SitePages/Engage-Azure-Synapse-CSE.aspx" target="_blank">here </a>.
