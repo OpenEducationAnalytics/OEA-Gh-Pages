@@ -72,7 +72,7 @@ especially within the context of education data standards and how they fit into 
 <div class="container-wrapper text-center">
    <img src="{{ site.baseurl }}/assets/imgs/posts/img_learning_impact_conference.png" class="img-fluid w-100" alt="" />
 </div>
-*Figure: OEA Presentation at the 1EdTech Learning Impact conference*
+*Figure 1: OEA Presentation at the 1EdTech Learning Impact conference*
 
 In the latter session, Emily Bell (CIO, Fulton County School System), Michael Evans (CTO, Forsyth County Schools), Patrick Porter (Director IT, Houston Independent School District), and Gene Garcia (Principal Architect, Microsoft) presented on the following theme: “Districts have adopted hundreds to thousands of teaching and learning apps. 
 Most of them don’t have a way to collect, organize and analyze the data that is captured. This Fireside Chat creates an opportunity to initiate a dialogue about the 
