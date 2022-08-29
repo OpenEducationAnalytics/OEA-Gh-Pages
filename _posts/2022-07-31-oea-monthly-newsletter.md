@@ -87,7 +87,7 @@ attendees and served as yet another validation of the importance of the work weâ
 ##### Product Support
 For any Power BI question: 
 - Post your question in general tab in <a href="https://aka.ms/pbicat " target="_blank">https://aka.ms/pbicat</a> 
-- Contact your local expert (PBI 50) who knows how to engage the :<a href="https://microsoft.sharepoint.com/teams/PBICATPortal/SitePages/Marquee.aspx?historyId=7BAF2FC2-4543-493C-AFD2-AD4E0B5FC64E&contentId=91DD67E2-07DE-4E4C-B73E-37986385CC2C" target="_blank"> PBI product group</a> 
+- Contact your local expert (PBI 50) who knows how to engage the <a href="https://microsoft.sharepoint.com/teams/PBICATPortal/SitePages/Marquee.aspx?historyId=7BAF2FC2-4543-493C-AFD2-AD4E0B5FC64E&contentId=91DD67E2-07DE-4E4C-B73E-37986385CC2C" target="_blank"> PBI product group</a> 
  
 For any Synapse question, you can post a question on this <a href="https://teams.microsoft.com/_?tenantId=72f988bf-86f1-41af-91ab-2d7cd011db47#/l/team/19:UgZ55PTYhXk7xj7T2luIBIuSJcy6RzWlm2fbfx4VSZ01@thread.tacv2/conversations?groupId=c89b27d7-91c1-4cc7-aa61-c6633c2e3904&tenantId=72f988bf-86f1-41af-91ab-2d7cd011db47&deeplinkId=06305baa-bf49-4071-b43f-9433c36462c6
 " target="_blank">Team </a>  site or make a request to the Azure CSE team by submitting a nomination <a href="https://microsoft.sharepoint.com/teams/SynapseCSE/SitePages/Engage-Azure-Synapse-CSE.aspx" target="_blank">here </a>.
