@@ -114,6 +114,15 @@
   region: Australia / Pacific
   region_code: AUS-PA
   website: https://www.pwc.com.au/consulting/digital-transformation/microsoft.html
+  
+- name: Siimpl
+  contact_person: Jefferson Fletcher
+  email: jefferson@siimpl.io
+  description: Experts in data platform engineering, integration and analytics solutions.
+  logo: siimpl.png
+  region: North America, South America, Middle East & Africa
+  region_code: NA
+  website: https://siimpl.io/
 
 - name: Spyglass
   contact_person: John Francis
