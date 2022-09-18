@@ -31,7 +31,7 @@
   description: Helps organizations build their data foundation, enhancing, expanding, and advancing their existing data capabilities with powerful accelerators, frameworks, methodologies, and best practices gathered from decades of experience by a market-leading Insights & Data team. 
   logo: capgemini.png
   region: Australia / Pacific & Asia
-  region_code: AUS-PA
+  region_code: AUS-PA, AS
   website: https://www.capgemini.com/au-en/service/perform-ai/do-good-with-data-ai/ai-for-education/
 
 - name: Community Brands
@@ -39,8 +39,8 @@
   email: mattw@communitybrands.uk
   description: Education technology solutions and products include identity and access management, data extraction and aggregation, visualisation and analytics, school communications and payments and parental engagement.
   logo: communitybrands.png
-  region: Europe, US & Middle East
-  region_code: EU
+  region: Europe, North America & Middle East
+  region_code: EU, NA, ME
   website: https://www.communitybrands.uk/education-analytics/
   
 - name: CTS
