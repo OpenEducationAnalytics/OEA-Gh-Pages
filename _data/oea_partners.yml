@@ -58,7 +58,7 @@
   description: A technological consulting company with more than 20 years of experience in the IT sector with the mission of driving the best of professionals and processes of medium and large organizations around the world, through SaaS applications and relevant projects, leveraging their digital footprint products and excellence in the best Microsoft cloud technology.
   logo: encamina.png
   region: Europe, South America & Middle East
-  region_code: EU
+  region_code: EU, SA, ME
   website: https://www.encamina.com/en/productivity-solutions-for-the-education-sector/
 
 - name: Eventful
@@ -76,7 +76,7 @@
   description: A Fortune 500 solutions integrator and Microsoft Gold Partner with more than 11,500 teammates worldwide helping organisations accelerate their digital journey to modernise their business and maximise the value of technology.
   logo: insight.png
   region: Australia / Pacific & Asia
-  region_code: AUS-PA
+  region_code: AUS-PA, AS
   website: https://au.insight.com/en_AU/what-we-do/vertical/education.html
 
 - name: Kwantum Analytics
@@ -121,7 +121,7 @@
   description: Experts in data platform engineering, integration and analytics solutions.
   logo: siimpl.png
   region: North America, South America, Middle East & Africa
-  region_code: NA
+  region_code: NA, SA, ME, AF
   website: https://siimpl.io/
 
 - name: Spyglass
@@ -139,7 +139,7 @@
   description: A Global IT Solutions and Services company with 30+ years’ experience in education, working with clients including Ministries of Education, Universities and Schools with deep expertise in AI, Predictive Analytics, Machine Learning and Cognitive Services.
   logo: terawe.png
   region: Europe, Middle East & North America
-  region_code: NA
+  region_code: EU, ME, NA
   website: https://www.terawe.com/
   
 - name: Uchida Yoko
