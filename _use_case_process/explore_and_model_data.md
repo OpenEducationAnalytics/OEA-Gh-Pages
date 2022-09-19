@@ -50,4 +50,4 @@ Use OEA <a href="https://github.com/microsoft/OpenEduAnalytics/tree/main/package
 </div>
 
 
-OEA is developed as a community so that education systems and OEA partners can contribute back to OEA as they develop modules and packages for use cases that may be relevant to other education systems. Learn how to contribute <a href="https://github.com/microsoft/OpenEduAnalytics/blob/main/CONTRIBUTING.md" target="_blank">here.</a>
+OEA is developed as a community so that education systems and OEA partners can contribute back to OEA as they develop modules and packages for use cases that may be relevant to other education systems. Learn how to contribute <a href="https://github.com/microsoft/OpenEduAnalytics/blob/main/docs/license/CONTRIBUTING.md">here.</a>
