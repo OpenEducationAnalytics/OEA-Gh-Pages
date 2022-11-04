@@ -23,7 +23,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="883c08e2-ef2c-41d7-a771-9fd14e27e966" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/assets/imgs/partners/eventful.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/assets/imgs/partners/eventful.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_case_studies/chronic_absenteeism.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_case_studies/equity_of_digital_access.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_case_studies/predicting_student_well_being.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/imgs/case_studies/chronic_absenteeism.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/imgs/case_studies/equity_of_digital_access.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/imgs/case_studies/predictive_student_wellbeing.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/imgs/partners/eventful.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +74,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/imgs/partners" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -80,12 +89,13 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/assets/imgs/partners" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/_posts" />
       <recent name="$PROJECT_DIR$/assets/imgs" />
       <recent name="$PROJECT_DIR$/assets/imgs/posts" />
-      <recent name="$PROJECT_DIR$/assets/imgs/customers" />
-      <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/imgs/case_studies" />
       <recent name="$PROJECT_DIR$/assets/imgs" />
       <recent name="$PROJECT_DIR$/assets" />
       <recent name="$PROJECT_DIR$/_sass" />
@@ -181,6 +191,8 @@
       <workItem from="1641308548224" duration="2844000" />
       <workItem from="1641351657325" duration="255000" />
       <workItem from="1641792078924" duration="997000" />
+      <workItem from="1667417580987" duration="6415000" />
+      <workItem from="1667560603191" duration="664000" />
     </task>
     <servers />
   </component>

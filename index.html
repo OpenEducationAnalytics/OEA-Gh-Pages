@@ -175,6 +175,79 @@ layout: default
     </section>
 
 
+    <section class="">
+        <div class="container">
+            <div class="row justify-content-center mb-3 text-center">
+                <div class="col-md-8 col-sm-10 col-12 col-xl-6 col-lg-6">
+                    <ul class="list-unstyled">
+                        <li><h4>Highlighted OEA Case Studies</h4></li>
+                        <li>
+                            <p>
+                                Explore real-world use cases that have been contributed by the OEA Community and learn how you can customize their technical assets for your own use cases.
+                            </p>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="row justify-content-center">
+                {% for item in site.case_studies %}
+
+                <div class="col-11 col-sm-10 col-md-6 col-lg-4 col-xl-4 h-100">
+                    <div class="article-wrapper h-100 text-left">
+                        <ul class="list-unstyled h-100">
+                            <li>
+                                <div class="img-object-container">
+                                    <a href="{{item.link}}">
+                                        <img src="{{ site.baseurl }}{{item.image}}"
+                                             alt="See the data and AI journey in Helsinki, Finland"
+                                             class="img-fluid h-100 img-fluid w-100"/>
+                                    </a>
+                                </div>
+                            </li>
+                            <li class="my-2">
+                                <a class="text-black text-left" href="{{item.link}}">
+                                    <h6>
+                                        {{item.title}}
+                                    </h6>
+                                </a>
+                            </li>
+                            <li>
+                                <p>
+                                    {{item.content | strip_html | strip_newlines | truncate: 300}}
+                                </p>
+                            </li>
+                            <li>
+                                <a href="{{item.link}}">
+                                    <p class="">Learn more</p>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
+
+
+<!--                <div class="col-md-6 col-sm-6 col-xl-3 col-lg-3 my-2">-->
+<!--                    <div class="card h-100">-->
+<!--                        <div class="card-body">-->
+<!--                            <ul class="list-unstyled">-->
+<!--                                <li>-->
+<!--                                    <img src="{{ site.baseurl }}/{{item.image}}"-->
+<!--                                         class="img-fluid w-25 default-icon-height"/>-->
+<!--                                </li>-->
+<!--                                <li>-->
+<!--                                    <p>{{item.content}}</p>-->
+<!--                                </li>-->
+<!--                            </ul>-->
+<!--                        </div>-->
+<!--                    </div>-->
+<!--                </div>-->
+                {% endfor %}
+            </div>
+        </div>
+    </section>
+
+
     <!--How OEA can modernize data estate section-->
     <div class="w-100">
         <img src="assets/imgs/img_yellow_backdrop_top.svg" class="img-fluid w-100">

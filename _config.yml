@@ -23,7 +23,7 @@ email: your-email@example.com
 description: Open Education Analytics is an open community developing modern data intelligence capabilities for global education.
 logo: /assets/imgs/img_oea_logo.png
 
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "/oea-website/" # the subpath of your site, e.g. /blog
 url: "https://openeducationanalytics.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
@@ -46,6 +46,7 @@ defaults:
 
 collections:
   whats_oea:
+  case_studies:
   modern_data_estate:
   stakeholders:
   challenges:
@@ -64,10 +65,10 @@ collections:
       - documentation.md
   best_practices_for_contributing:
    order:
-      - first_item.md
-      - second_item.md
+      - chronic_absenteeism.md
+      - equity_of_digital_access.md
       - third_item.md
-      - fourth_item.md
+      - predicting_student_well_being.md
       - fifth_item.md
       - sixth_item.md
       - seventh_item.md
