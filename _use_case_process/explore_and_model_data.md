@@ -15,14 +15,14 @@ Use OEA <a href="https://github.com/microsoft/OpenEduAnalytics/tree/main/package
             <h5>Some OEA Packages Available for Use</h5>
         </div>
    </div>
- <div class="row justify-content-center my-4 m d-none">
+ <div class="row justify-content-center my-4 m">
         {% for item in site.data.oea_packages %}
          <div class="col-11 col-md-5 col-sm-8 col-lg-3 col-xl-3 g-lg-0 g-xl-3 mt-3 mx-3">
              <a href="{{item.url}}" target="_blank">
              <div class="card card-with-hover h-100">
-                              <div class="card-body text-center my-auto">
-                                  <ul class="list-unstyled m-0">
-                                      <li>
+                              <div class="card-body text-center my-auto d-flex">
+                                  <ul class="list-unstyled m-0 d-flex">
+                                      <li class="align-self-center">
                                           <p class="m-0">{{item.name}}</p>
                                       </li>
                                   </ul>
@@ -32,7 +32,7 @@ Use OEA <a href="https://github.com/microsoft/OpenEduAnalytics/tree/main/package
          </div>
         {% endfor %}
    </div>
-   <div class="row justify-content-center my-4 m">
+   <div class="row justify-content-center my-4 m d-none">
            {% for item in site.data.oea_packages %}
             <div class="col-11 col-md-5 col-sm-8 col-lg-3 col-xl-3 g-lg-0 g-xl-3 mt-3 mx-3">
                 <div class="card h-100">
