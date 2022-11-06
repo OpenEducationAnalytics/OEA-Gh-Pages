@@ -1,7 +1,7 @@
-- name: Digital Engagement & Learning Outcomes
-#  url:
-- name: Hybrid Learning Engagement
-#  url:
-- name: Predicting At Risk Students
-#  url:
+- name: Hybrid Engagement
+#  url: https://github.com/microsoft/OpenEduAnalytics/tree/main/packages/package_catalog/Hybrid_Engagement
+- name: Predicting Chronic Absenteeism
+#  url: https://github.com/microsoft/OpenEduAnalytics/tree/main/packages/package_catalog/Predicting_Chronic_Absenteeism
+- name: Digital Equity of Access
+#  url: https://github.com/microsoft/OpenEduAnalytics/tree/main/packages/package_catalog/Digital_Equity_of_Access
 
