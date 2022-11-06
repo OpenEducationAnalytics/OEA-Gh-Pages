@@ -12,7 +12,7 @@ Use OEA <a href="https://github.com/microsoft/OpenEduAnalytics/tree/main/package
 <div class="container-wrapper-blue py-5 my-4">
   <div class="row justify-content-center text-center">
         <div class="col-sm-6 col-md-5 col-lg-6 col-xl-6 col-10">
-            <h5>Some OEA Packages Coming Soon</h5>
+            <h5>Some OEA Packages Available for Use</h5>
         </div>
    </div>
  <div class="row justify-content-center my-4 m d-none">
