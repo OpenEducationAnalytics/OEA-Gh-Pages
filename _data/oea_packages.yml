@@ -1,5 +1,5 @@
 - name: Hybrid Engagement
-  website: https://github.com/microsoft/OpenEduAnalytics/tree/main/packages/package_catalog/Hybrid_Engagement
+  url: https://github.com/microsoft/OpenEduAnalytics/tree/main/packages/package_catalog/Hybrid_Engagement
 - name: Predicting Chronic Absenteeism
   url: https://github.com/microsoft/OpenEduAnalytics/tree/main/packages/package_catalog/Predicting_Chronic_Absenteeism
 - name: Digital Equity of Access
