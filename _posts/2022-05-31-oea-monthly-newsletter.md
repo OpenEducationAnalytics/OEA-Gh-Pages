@@ -14,7 +14,7 @@ Open Education Analytics (OEA) is a community of education systems and tech part
 - OEA Website: <a href="https://openeducationanalytics.org" target="_blank">https://openeducationanalytics.org </a>
 - OEA GitHub Repository: <a href="https://github.com/microsoft/OpenEduAnalytics" target="_blank">https://github.com/microsoft/OpenEduAnalytics</a>
 - OEA Overview Video: <a href="https://www.youtube.com/watch?v=q6snp28bBQU&t=1s" target="_blank">OEA Overview on YouTube </a>
-
+{space}{space}
 ##### OEA Partners
 We are excited to kick off a new partner training program in Africa this quarter! OEA is partnering with the <a href="https://nexteinstein.org/" target="_blank"> African Institute of Mathematical Sciences (AIMS) </a>, a pan-African network of centers of excellence enabling Africa’s talented students to become data innovators driving the continent’s scientific, educational and economic self-sufficiency. For phase one of this project, we will be training their IT staff, faculty and Master’s students using the OEA curriculum, to enable them to do OEA deployments, data engineering and analytics. Concurrently, we will be exploring use cases for Ministries of Education in Africa.
 
