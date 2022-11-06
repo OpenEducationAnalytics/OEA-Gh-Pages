@@ -50,8 +50,8 @@ let text3 = document.getElementById('0103');
 
 const load = () => {
 
-    animate(text1, 0, 62, 5000);
-    animate(text2, 0, 37, 5000);
+    animate(text1, 0, 175, 5000);
+    animate(text2, 0, 17, 5000);
     animate(text3, 0, 2100000, 5000);
 
 
