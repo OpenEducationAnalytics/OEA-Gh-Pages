@@ -62,7 +62,7 @@ To comply with <a href="https://www.microsoft.com/en-us/ai/our-approach?activeta
 >   
 > Chris Hamill from the Power BI Team shared the process of designing and delivering compelling, engaging, and intuitive Power BI reports that are easy to understand. The process comprises phases to understand the report users and their requirements, explore report designs, and develop production ready reports. 
 > 
-> Chris also shared several examples of Power BI designs while highlighting good and bad practices in each. If interested, take the interactive Microsoft Learn learning path on designing effective Power BI reports <a href="https://learn.microsoft.com/en-us/training/paths/power-bi-effective/" target="_blank"> here </a>.  
+> Chris also shared several examples of Power BI designs while highlighting good and bad practices in each. If interested, take the interactive Microsoft Learn learning path on designing effective Power BI reports <a href="https://learn.microsoft.com/en-us/training/paths/power-bi-effective/" target="_blank"> here</a>.  
 
 ##### Product Support
 For any Power BI question: 
