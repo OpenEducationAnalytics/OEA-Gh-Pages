@@ -19,32 +19,19 @@ Open Education Analytics (OEA) is a community of education systems and tech part
 ##### OEA Working Groups' Progress
 Over 50 OEA members have joined the 4 OEA Working Groups announced in September. Each collaboration is underway with progress to be discussed in the OEA meetings in the coming weeks. By way of summary: 
 
-**360 Learner Progress:** this working group developed a shared conceptual framework of 3 types of analytical models that would help personalize the learner experience:
-student success models that look across all elements of student engagement; academic success models that look at student progress across all academic courses; and 
-future success models that look at skill development towards specific types of careers or job roles. A few members of the working group are implementing the OEA 
-Framework and will collaborate to build key modules, a shared data model, and ultimately an OEA Package for 360 Learner Progress in 2023. 
+**360 Learner Progress:** this working group developed a shared conceptual framework of 3 types of analytical models that would help personalize the learner experience: student success models that look across all elements of student engagement; academic success models that look at student progress across all academic courses; and future success models that look at skill development towards specific types of careers or job roles. A few members of the working group are implementing the OEA Framework and will collaborate to build key modules, a shared data model, and ultimately an OEA Package for 360 Learner Progress in 2023. 
 
 **Learning Analytics:** this working group is focused on analytics to support faculty and teachers in understanding their class dynamics. The collaboration 
 is off to a fantastic start. Through discussions, the group has defined the overall goal: to help educators understand if students are actually engaged and 
 learning in classes. Learning Analytics represents the right technology and the right data sources to empower educators to: 1) Support student well-being, 
-freeing students to engage and learn; 2) Find better ways to encourage students to participate, meeting them where they are, and bridge generational gaps between 
-educators and learners; 3) Develop a healthy and engaging learning environment and optimize learning resources to design the best paths towards students’ learning 
-outcomes. 
+freeing students to engage and learn; 2) Find better ways to encourage students to participate, meeting them where they are, and bridge generational gaps between educators and learners; 3) Develop a healthy and engaging learning environment and optimize learning resources to design the best paths towards students’ learning outcomes. 
  
 **Education System Reporting:** In this working group kick-off meeting, the Helsinki Division of Education shared their analytics on modeling 
 student well-being and Fresno Unified School District shared their work on reporting on digital equity. A big thank you to them for sharing 
-excellent examples of data and AI use cases! The group discussed the need to leverage data from other government agencies, such as social services, to get a more 
-layered picture of learning patterns in their systems. Also discussed were how open-source collaborations like OEA can accelerate through using common datasets 
-(like IPEDS in the US) and through using data standards such as Ed-Fi, CEDS, and SIF. OEA has already developed some of these elements that support education reporting
-through OEA Modules on <a href="https://github.com/microsoft/OpenEduAnalytics/tree/main/modules/module_catalog/IPEDS" target="_blank">IPEDS </a>, Ed-FI (to be released soon), and <a href="https://github.com/microsoft/OpenEduAnalytics/tree/main/modules/module_catalog/SIF" target="_blank">SIF</a>. These will form the foundation of an Education Reporting Package that this group will develop in 
+excellent examples of data and AI use cases! The group discussed the need to leverage data from other government agencies, such as social services, to get a more layered picture of learning patterns in their systems. Also discussed were how open-source collaborations like OEA can accelerate through using common datasets (like IPEDS in the US) and through using data standards such as Ed-Fi, CEDS, and SIF. OEA has already developed some of these elements that support education reporting through OEA Modules on <a href="https://github.com/microsoft/OpenEduAnalytics/tree/main/modules/module_catalog/IPEDS" target="_blank">IPEDS </a>, Ed-FI (to be released soon), and <a href="https://github.com/microsoft/OpenEduAnalytics/tree/main/modules/module_catalog/SIF" target="_blank">SIF</a>. These will form the foundation of an Education Reporting Package that this group will develop in 
 2023.
  
- 
-**Skills-Based Course Design:** This working group has completed a research project to understand the process and needs of course design or syllabus development. 
-There is strong agreement that simplifying the course development process and enabling metadata about instructional design and learning resources to be used for 
-analytics is urgently needed. Also, this project will help course designers map course learning outcomes to the LinkedIn Skills taxonomy so that students can better 
-describe the skills they are developing in the same language that job recruiters use. There is work already underway to build a proof-of-concept app using PowerApps 
-to test out concepts and workflows with a small group of universities. 
+**Skills-Based Course Design:** This working group has completed a research project to understand the process and needs of course design or syllabus development. There is strong agreement that simplifying the course development process and enabling metadata about instructional design and learning resources to be used for analytics is urgently needed. Also, this project will help course designers map course learning outcomes to the LinkedIn Skills taxonomy so that students can better describe the skills they are developing in the same language that job recruiters use. There is work already underway to build a proof-of-concept app using PowerApps to test out concepts and workflows with a small group of universities. 
 
 Please fill out <a href="https://forms.office.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR8N9dofOqa1PobxBN5c5ZxtUQlozU1hPVE1LQlg3WlJETEpGTFVROVFERi4u" target="_blank">OEA Community - Working Groups Survey </a> if you are interested to participate in the working groups.  
 
