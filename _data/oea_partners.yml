@@ -52,14 +52,23 @@
   region_code: ME, AF, AS
   website: https://www.cts.ae/
   
+- name: EdGraph 
+  contact_person: Matt Adler
+  email: matt@edwire.com
+  description: EdGraph® is a platform that aggregates data from a variety of siloed systems into one operational datastore, aligned to the Ed-Fi standard. Using built-in interoperability utilities, data can be automatically integrated in and out of the ODS. First- and third-party applications can tap directly into ODS data, which can be accessed directly within the platform -- making EdGraph the universal hub for your operations. In addition to our Managed Ed-Fi Service, we offer timely and comprehensive Analytics (leveraging the OEA framework), powerful Data Validation and governance solutions, and more.
+  logo: Logo (300x225).png
+  region: North America
+  region_code: EU, SA, ME
+  website: https://www.encamina.com/en/productivity-solutions-for-the-education-sector/
+  
 - name: ENCAMINA 
   contact_person: Antonio Reinón
   email: edu@encamina.com
   description: A technological consulting company with more than 20 years of experience in the IT sector with the mission of driving the best of professionals and processes of medium and large organizations around the world, through SaaS applications and relevant projects, leveraging their digital footprint products and excellence in the best Microsoft cloud technology.
   logo: encamina.png
   region: Europe, South America & Middle East
-  region_code: EU, SA, ME
-  website: https://www.encamina.com/en/productivity-solutions-for-the-education-sector/
+  region_code: NA
+  website: www.edgraph.com
 
 - name: Eventful
   contact_person: Douglas Potter
