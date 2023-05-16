@@ -119,8 +119,8 @@
   contact_person: Graham Lawson
   email: graham@praelexis.com
   description: Praelexis AI is a specialist AI and Machine Learning company that operates in numerous markets, including education, financial services, healthcare, agritech, and telematics.   logo: pwc.png
-  region: Africa / Middle East / Western Europe
-  region_code: AF, ME,WE
+  region: Africa, Middle East, Western Europe
+  region_code: AF, ME, WE
   website: www.praelexis.ai
 
 - name: PwC
