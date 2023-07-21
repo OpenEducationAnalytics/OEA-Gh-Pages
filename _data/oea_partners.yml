@@ -24,7 +24,16 @@
   region: Asia
   region_code: AS
   website: https://www.atl-systems.co.jp/
-  
+
+- name: Authentica Solutions
+  contact_person: Russell Long
+  email: russell@authenticasolutions.com
+  description: Specializing in data modernization services with deep expertise in data integration, data centralization, and analytics in education.
+  logo: authentica.png
+  region: Europe, North America & Australia
+  region_code: EU, NA, ME
+  website: https://authenticasolutions.com/
+
 - name: Capgemini
   contact_person: Andreas Nerlich
   email: andreas.nerlich@capgemini.com
