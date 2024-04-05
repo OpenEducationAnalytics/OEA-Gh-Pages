@@ -12,7 +12,7 @@ image: /assets/imgs/posts/img_january_2022_newsletter.png
 Open Education Analytics (OEA) is a community of education systems and tech partners, coordinated by Microsoft Education, collaborating to develop open source data analytics solutions for the education sector built on Azure Synapse Analytics and PowerBI.  
 
 - OEA Website: <a href="https://openeducationanalytics.org" target="_blank">https://openeducationanalytics.org </a>
-- OEA GitHub Repository: <a href="https://github.com/microsoft/OpenEduAnalytics" target="_blank">https://github.com/microsoft/OpenEduAnalytics</a>
+- OEA GitHub Repository: <a href="https://github.com/OpenEducationAnalytics/OpenEduAnalytics" target="_blank">https://github.com/OpenEducationAnalytics/OpenEduAnalytics</a>
 - OEA Overview Video: <a href="https://www.youtube.com/watch?v=q6snp28bBQU&t=1s" target="_blank">OEA Overview on YouTube </a>
 
 ##### Data Analytics and AI 
@@ -20,13 +20,13 @@ Open Education Analytics (OEA) is a community of education systems and tech part
 Over the past few weeks, we have seen an increase in OEA contributions by our partner and communities of education systems. These contributions are part of OEA’s open-source strategy, because the more education data modules and education use case packages are available that are aligned to the OEA framework, the more value OEA will have to education systems and partners in accelerating their data and AI journeys. 
 
 The newly published module and package contributions by our GitHub community include: 
-- The <a href="https://github.com/microsoft/OpenEduAnalytics/tree/main/modules/IPEDS" target="_blank">IPEDS module </a> was contributed by our OEA Partner, Trivium BI. This module provides important US public data about higher education institutions’ performance nationally. The module provides a Power BI template for this data, allowing institutions to review their admissions, enrollment, financial and graduation rates and benchmark themselves against selected peer institutions.  
-- <a href="https://github.com/microsoft/OpenEduAnalytics/tree/main/packages/How_to_implement_Azure_machine_learning" target="_blank">How to Implement Azure Machine Learning </a> with a generalized machine learning modeling template that can be used by other education systems as a starting point for creating their own customizable data or machine learning pipelines using the OEA framework. 
+- The <a href="https://github.com/OpenEducationAnalytics/OpenEduAnalytics/tree/main/modules/IPEDS" target="_blank">IPEDS module </a> was contributed by our OEA Partner, Trivium BI. This module provides important US public data about higher education institutions’ performance nationally. The module provides a Power BI template for this data, allowing institutions to review their admissions, enrollment, financial and graduation rates and benchmark themselves against selected peer institutions.  
+- <a href="https://github.com/OpenEducationAnalytics/OpenEduAnalytics/tree/main/packages/How_to_implement_Azure_machine_learning" target="_blank">How to Implement Azure Machine Learning </a> with a generalized machine learning modeling template that can be used by other education systems as a starting point for creating their own customizable data or machine learning pipelines using the OEA framework. 
 
 We will be announcing newly published contributions in this newsletter each month. Stay tuned for some exciting new ones in February! 
 
 ##### OEA Tech: Helping Education Systems Setup Their Modern Data Estate
-Towards the goal of making modern data services and data science easier to use, the latest release of the OEA framework, <a href="https://github.com/microsoft/OpenEduAnalytics/releases/tag/v0.6" target="_blank">v0.6</a>, has significant updates to help automate data engineering and data science tasks at the framework level.  
+Towards the goal of making modern data services and data science easier to use, the latest release of the OEA framework, <a href="https://github.com/OpenEducationAnalytics/OpenEduAnalytics/releases/tag/v0.6" target="_blank">v0.6</a>, has significant updates to help automate data engineering and data science tasks at the framework level.  
 
 The new updates in v0.6 include: 
 •	Incremental batch data ingestion through the OEA framework 

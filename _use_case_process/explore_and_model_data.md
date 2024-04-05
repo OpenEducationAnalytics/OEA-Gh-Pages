@@ -5,9 +5,9 @@ step: 3
 ---
 **Build off the work of the Open Education Analytics Community**
 
-OEA GitHub includes open source data <a href="https://github.com/microsoft/OpenEduAnalytics/tree/main/modules" target="_blank">modules</a> for common education datasets. You can connect many of your datasets quickly, combine them with other data, and move to data visualisation and insights quickly.
+OEA GitHub includes open source data <a href="https://github.com/OpenEducationAnalytics/OpenEduAnalytics/tree/main/modules" target="_blank">modules</a> for common education datasets. You can connect many of your datasets quickly, combine them with other data, and move to data visualisation and insights quickly.
 
-Use OEA <a href="https://github.com/microsoft/OpenEduAnalytics/tree/main/packages" target="_blank">packages</a> to develop models that solve common education challenges like predicting at risk or vulnerable students.
+Use OEA <a href="https://github.com/OpenEducationAnalytics/OpenEduAnalytics/tree/main/packages" target="_blank">packages</a> to develop models that solve common education challenges like predicting at risk or vulnerable students.
 
 <div class="container-wrapper-blue py-5 my-4">
   <div class="row justify-content-center text-center">
@@ -50,4 +50,4 @@ Use OEA <a href="https://github.com/microsoft/OpenEduAnalytics/tree/main/package
 </div>
 
 
-OEA is developed as a community so that education systems and OEA partners can contribute back to OEA as they develop modules and packages for use cases that may be relevant to other education systems. Learn how to contribute <a href="https://github.com/microsoft/OpenEduAnalytics/blob/main/docs/license/CONTRIBUTING.md">here.</a>
+OEA is developed as a community so that education systems and OEA partners can contribute back to OEA as they develop modules and packages for use cases that may be relevant to other education systems. Learn how to contribute <a href="https://github.com/OpenEducationAnalytics/OpenEduAnalytics/blob/main/docs/license/CONTRIBUTING.md">here.</a>

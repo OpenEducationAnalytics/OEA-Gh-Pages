@@ -12,7 +12,7 @@ image: /assets/imgs/posts/img_november_december_2021_oea_newsletter.png
 Open Education Analytics (OEA) is a community of education systems and tech partners, coordinated by Microsoft Education, collaborating to develop open source data analytics solutions for the education sector built on Azure Synapse Analytics and PowerBI.  
 
 - OEA Website: <a href="https://openeducationanalytics.org" target="_blank">https://openeducationanalytics.org </a>
-- OEA GitHub Repository: <a href="https://github.com/microsoft/OpenEduAnalytics" target="_blank">https://github.com/microsoft/OpenEduAnalytics</a>
+- OEA GitHub Repository: <a href="https://github.com/OpenEducationAnalytics/OpenEduAnalytics" target="_blank">https://github.com/OpenEducationAnalytics/OpenEduAnalytics</a>
 - OEA Overview Video: <a href="https://www.youtube.com/watch?v=q6snp28bBQU&t=1s" target="_blank">OEA Overview on YouTube </a>
 
 
@@ -31,9 +31,9 @@ Also, check out the new case study on the Nebraska OEA story on statewide longit
 Data governance and compliance is increasingly becoming top of mind for school systems. In Australia, the Tasmania Department of Education recently presented to the Australian OEA Community how they use Azure Purview as the foundation for their data governance strategy and implementation. Azure Purview is now a recommended component of the <a href="https://openeducationanalytics.org/get-started/" target="_blank">OEA reference architecture.</a> Tasmania described creating a data governance operating model and building a lifecycle of data across people, processes, and policies right from when the data is created, how it is mapped, how it is classified, how it can be protected, how it can be stored, how it can be used all the way to how it can be maintained. Learn more about Azure Purview <a href="https://docs.microsoft.com/en-us/azure/purview/overview" target="_blank">here </a>. 
 
 **New OEA Modules and Packages** 
--	Updated Microsoft Teams <a href="https://github.com/microsoft/OpenEduAnalytics/tree/main/modules/Microsoft_Data/Microsoft_Education_Insights_Premium" target="_blank">Education Insights Premium Module </a> (requires paid subscription to <a href="https://education.microsoft.com/en-us/resource/3978f2d8" target="_blank">Education Insights </a>)
--	<a href="https://github.com/microsoft/OpenEduAnalytics/tree/main/modules/Microsoft_Data/Intune" target="_blank">Intune Reports Module </a>
--	<a href="https://github.com/microsoft/OpenEduAnalytics/tree/main/packages/Verified_Credentials" target="_blank">Verifiable Credentials Package for Digital Learner Records</a>
+-	Updated Microsoft Teams <a href="https://github.com/OpenEducationAnalytics/OpenEduAnalytics/tree/main/modules/Microsoft_Data/Microsoft_Education_Insights_Premium" target="_blank">Education Insights Premium Module </a> (requires paid subscription to <a href="https://education.microsoft.com/en-us/resource/3978f2d8" target="_blank">Education Insights </a>)
+-	<a href="https://github.com/OpenEducationAnalytics/OpenEduAnalytics/tree/main/modules/Microsoft_Data/Intune" target="_blank">Intune Reports Module </a>
+-	<a href="https://github.com/OpenEducationAnalytics/OpenEduAnalytics/tree/main/packages/Verified_Credentials" target="_blank">Verifiable Credentials Package for Digital Learner Records</a>
 
 These are all very new OEA tech assets, and we welcome contributions or feedback on the ease of implementing them, or opportunities to develop Proof of Concept projects with education systems.
 
@@ -52,7 +52,7 @@ These are all very new OEA tech assets, and we welcome contributions or feedback
 
 ##### Data Analytics and AI
 
-Community contributions are at the center of thriving open-source communities. With the improved OEA framework and <a href="https://github.com/microsoft/OpenEduAnalytics/tree/main/modules/_Creation_Kit" target="_blank">our new Module Creation Kit</a>, we’re making the process for contributing and curating new OEA modules easier, while empowering our customers and partners to make contributions to the community.
+Community contributions are at the center of thriving open-source communities. With the improved OEA framework and <a href="https://github.com/OpenEducationAnalytics/OpenEduAnalytics/tree/main/modules/_Creation_Kit" target="_blank">our new Module Creation Kit</a>, we’re making the process for contributing and curating new OEA modules easier, while empowering our customers and partners to make contributions to the community.
 Our first customer contributions to OEA are underway. Fresno Unified School District is working on a Clever module for ingesting multi-app signals from Clever to Synapse. A Canvas module is being developed by the Tasmania Department of Education in Australia for ingesting data from the Canvas LMS. 
 
 We also have a partner working on our first module using public data, the Integrated Postsecondary Education Data System (IPEDS), which provides data from all higher ed institutions in the US. And finally, an OEA Advanced Partner has contributed a <a href="https://azuremarketplace.microsoft.com/en-US/marketplace/consulting-services/spyglassmtgllc.oea" target="_blank"> 10-week OEA based solution </a>

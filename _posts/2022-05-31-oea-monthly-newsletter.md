@@ -12,7 +12,7 @@ image: /assets/imgs/posts/img_apr_may_2022_newsletter.png
 Open Education Analytics (OEA) is a community of education systems and tech partners, coordinated by Microsoft Education, collaborating to develop open source data analytics solutions for the education sector built on Azure Synapse Analytics and PowerBI.  
 
 - OEA Website: <a href="https://openeducationanalytics.org" target="_blank">https://openeducationanalytics.org </a>
-- OEA GitHub Repository: <a href="https://github.com/microsoft/OpenEduAnalytics" target="_blank">https://github.com/microsoft/OpenEduAnalytics</a>
+- OEA GitHub Repository: <a href="https://github.com/OpenEducationAnalytics/OpenEduAnalytics" target="_blank">https://github.com/OpenEducationAnalytics/OpenEduAnalytics</a>
 - OEA Overview Video: <a href="https://www.youtube.com/watch?v=q6snp28bBQU&t=1s" target="_blank">OEA Overview on YouTube </a>
 <br>
 
@@ -38,11 +38,11 @@ provided tech roadmap and training information, and shared new GitHub contributi
 
 ##### Data Analytics and AI
 OEA officially published a new open-source package to support education systems in developing predictive models of Chronic Absenteeism. Working with Fresno Unified 
-School District and Kwantum Analytics, the <a href="https://github.com/microsoft/OpenEduAnalytics/tree/main/packages/Chronic_Absenteeism" target="_blank">package </a> includes Use Case Documentation that combines prior research and the application of principles of responsible AI 
+School District and Kwantum Analytics, the <a href="https://github.com/OpenEducationAnalytics/OpenEduAnalytics/tree/main/packages/Chronic_Absenteeism" target="_blank">package </a> includes Use Case Documentation that combines prior research and the application of principles of responsible AI 
 to the project, data pipelines, data visualization concepts, and the tools to deploy this type of predictive model. Other education systems and partners are welcome
 to use these technical assets to address challenges of absenteeism in their schools.   
   
-We have published Microsoft’s School Transformation Survey (STS) as an <a href="https://github.com/microsoft/OpenEduAnalytics/tree/main/modules/Microsoft_School_Transformation_Survey" target="_blank">OEA module </a>, where STS data can be ingested into an OEA Azure data lake and used in analytics
+We have published Microsoft’s School Transformation Survey (STS) as an <a href="https://github.com/OpenEducationAnalytics/OpenEduAnalytics/tree/main/modules/Microsoft_School_Transformation_Survey" target="_blank">OEA module </a>, where STS data can be ingested into an OEA Azure data lake and used in analytics
 as part of education use cases to help schools begin their education transformation and to measure their progress. The School Transformation Survey is a free, 
 self-hosted survey that measures the perceptions of educators and leaders on the current state of innovative teaching practices in their schools or classrooms. 
 It is a self-review and serves as an important first step in raising awareness of each school’s current state of transformation. 

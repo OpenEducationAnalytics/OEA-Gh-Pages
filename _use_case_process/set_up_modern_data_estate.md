@@ -3,7 +3,7 @@ title: Set Up Modern Data Estate
 subtitle: Set Up the modern Data Estate for Use Case
 step: 2
 ---
-Using the <a target="_blank" href="https://github.com/microsoft/OpenEduAnalytics">OEA Setup on GitHub<a/>, education data teams can set up the modern data estate in minutes.
+Using the <a target="_blank" href="https://github.com/OpenEducationAnalytics/OpenEduAnalytics">OEA Setup on GitHub<a/>, education data teams can set up the modern data estate in minutes.
 
 To setup the fully functional OEA reference architecture, follow the 3-step setup process on the OEA GitHub repository. The OEA reference architecture has been developed by Microsoft data architects using the most powerful data services from Azure and open source tools. It sets up the foundation to enable many different use cases to be developed by an education system.
 
@@ -27,7 +27,7 @@ cd clouddrive
 wget
 ```
 ```
-https://github.com/microsoft/OpenEduAnalytics/releases/download/OEA_framework_v0.6.1/OEA_v0.6.1.zip
+https://github.com/OpenEducationAnalytics/OpenEduAnalytics/releases/download/OEA_framework_v0.6.1/OEA_v0.6.1.zip
 ```
 ```
 unzip ./OEA_v0.6.1.zip
@@ -38,4 +38,4 @@ unzip ./OEA_v0.6.1.zip
 ./OEA_framework_v0.6.1/setup.sh mysuffix
 ```
 
-Visit the [OEA GitHub repository](https://github.com/microsoft/OpenEduAnalytics) for additional setup steps and guidance.
+Visit the [OEA GitHub repository](https://github.com/OpenEducationAnalytics/OpenEduAnalytics) for additional setup steps and guidance.

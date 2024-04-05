@@ -12,7 +12,7 @@ image: /assets/imgs/posts/img_feb_mar_2022_newsletter.png
 Open Education Analytics (OEA) is a community of education systems and tech partners, coordinated by Microsoft Education, collaborating to develop open source data analytics solutions for the education sector built on Azure Synapse Analytics and PowerBI.  
 
 - OEA Website: <a href="https://openeducationanalytics.org" target="_blank">https://openeducationanalytics.org </a>
-- OEA GitHub Repository: <a href="https://github.com/microsoft/OpenEduAnalytics" target="_blank">https://github.com/microsoft/OpenEduAnalytics</a>
+- OEA GitHub Repository: <a href="https://github.com/OpenEducationAnalytics/OpenEduAnalytics" target="_blank">https://github.com/OpenEducationAnalytics/OpenEduAnalytics</a>
 - OEA Overview Video: <a href="https://www.youtube.com/watch?v=q6snp28bBQU&t=1s" target="_blank">OEA Overview on YouTube </a>
 
 ##### OEA Communities Ignite and Expand

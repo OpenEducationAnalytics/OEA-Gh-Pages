@@ -35,7 +35,7 @@
       image: ic_setup.svg
       alias: "DAE DSDA R"
     - name: OEA Setup Documentation
-      url: https://github.com/microsoft/OpenEduAnalytics
+      url: https://github.com/OpenEducationAnalytics/OpenEduAnalytics
       roles: [Data Architects and Engineers, Data Scientists and Analysts, Researchers]
       description: Using the OEA Setup on GitHub, education data teams can setup the modern data estate in minutes.
       image: ic_setup.svg

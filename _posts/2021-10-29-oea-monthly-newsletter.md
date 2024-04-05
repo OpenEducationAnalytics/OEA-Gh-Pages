@@ -12,7 +12,7 @@ image: /assets/imgs/posts/img_october_2021_oea_newsletter.png
 Open Education Analytics (OEA) is a community of education systems and tech partners, coordinated by Microsoft Education, collaborating to develop open source data analytics solutions for the education sector built on Azure Synapse Analytics and PowerBI.  
 
 - OEA Website: <a href="https://openeducationanalytics.org" target="_blank">https://openeducationanalytics.org </a>
-- OEA GitHub Repository: <a href="https://github.com/microsoft/OpenEduAnalytics" target="_blank">https://github.com/microsoft/OpenEduAnalytics</a>
+- OEA GitHub Repository: <a href="https://github.com/OpenEducationAnalytics/OpenEduAnalytics" target="_blank">https://github.com/OpenEducationAnalytics/OpenEduAnalytics</a>
 
 ##### OEA Communities
 
@@ -34,7 +34,7 @@ Our v0.5 release includes among others:
 - New framework assets including linked services, datasets, and pipelines. 
 - Data generator framework and utilities. 
 
-See the full list <a href="https://github.com/microsoft/OpenEduAnalytics/releases/tag/v0.5" target="_blank">here</a>. 
+See the full list <a href="https://github.com/OpenEducationAnalytics/OpenEduAnalytics/releases/tag/v0.5" target="_blank">here</a>. 
 
 
 >
@@ -49,7 +49,7 @@ See the full list <a href="https://github.com/microsoft/OpenEduAnalytics/release
 
 ##### Data Analytics and AI
 
-The OEA community is building shared technology resources, including modules (for a single data source) and packages (for multiple data sources combined for a use case) to help education systems implement the modern data estate in education. In October, we published 1 new module and 1 new package on the OEA GitHub repository. These are the <a href="https://github.com/microsoft/OpenEduAnalytics/tree/main/modules/Microsoft_Graph" target="_blank">Graph Reports Module </a> for ingesting data from the Graph Reports API into Synapse and the <a href="https://github.com/microsoft/OpenEduAnalytics/tree/main/packages/ContosoISD_hybrid_engagement" target="_blank">Hybrid Engagement Package </a> which provides a set of assets for education systems to have a more comprehensive report of in-person attendance and digital activity. 
+The OEA community is building shared technology resources, including modules (for a single data source) and packages (for multiple data sources combined for a use case) to help education systems implement the modern data estate in education. In October, we published 1 new module and 1 new package on the OEA GitHub repository. These are the <a href="https://github.com/OpenEducationAnalytics/OpenEduAnalytics/tree/main/modules/Microsoft_Graph" target="_blank">Graph Reports Module </a> for ingesting data from the Graph Reports API into Synapse and the <a href="https://github.com/OpenEducationAnalytics/OpenEduAnalytics/tree/main/packages/ContosoISD_hybrid_engagement" target="_blank">Hybrid Engagement Package </a> which provides a set of assets for education systems to have a more comprehensive report of in-person attendance and digital activity. 
 
 Our upcoming modules include the Microsoft Education Insights Module for ingesting data from Education Insights to Synapse, the Intune Reports Module for ingesting Intune device report data into Synapse and the Clever Module for ingesting multi-app signals from Clever to Synapse. All of these modules can support education systems seeking to develop Digital Learning Ecosystem Insights, to see how use of various digital learning tools relate to learning outcomes in this era of hybrid learning. 
 
@@ -57,7 +57,7 @@ We will also be publishing the Verified Credentials Package which will enable ed
  
 
 ##### Customer and Partner Enablement
-To improve the process of developing and contributing modules for our partners and customers, we recently published a kit for module creation. In the OEA framework, a module refers to a set of assets for moving a single data source into Synapse. The <a href="https://github.com/microsoft/OpenEduAnalytics/tree/main/modules/_Creation_Kit" target="_blank">OEA Module Creation Kit </a>, now live on the OEA GitHub repository, is designed to make the development of high quality OEA Modules easier by defining guidelines so every module will have a consistent set of assets. The more modules the OEA Community develops, the more education data sources can easily be ingested into each organization’s modern data estate. This will save valuable time and resources for both education systems and analytics partners. OEA modules eliminate the need for each team to build education data source pipelines ‘from scratch’ and speed up the time to value for analytics investments. 
+To improve the process of developing and contributing modules for our partners and customers, we recently published a kit for module creation. In the OEA framework, a module refers to a set of assets for moving a single data source into Synapse. The <a href="https://github.com/OpenEducationAnalytics/OpenEduAnalytics/tree/main/modules/_Creation_Kit" target="_blank">OEA Module Creation Kit </a>, now live on the OEA GitHub repository, is designed to make the development of high quality OEA Modules easier by defining guidelines so every module will have a consistent set of assets. The more modules the OEA Community develops, the more education data sources can easily be ingested into each organization’s modern data estate. This will save valuable time and resources for both education systems and analytics partners. OEA modules eliminate the need for each team to build education data source pipelines ‘from scratch’ and speed up the time to value for analytics investments. 
 
 In October, we held our first Quarterly Partner meeting with business leaders and technical members of 20 of OEA partner companies to share recent updates from the OEA team, including technical releases like v0.5 of the OEA framework and our new modules and packages. We then discussed business topics like how partners can get 5+ OEA deployments per year, reviewed the benefits and requirements for each level of partnership and funding programs that partners can tap into. Finally, we discussed one of the use cases that is of interest to our customers: State or National Longitudinal Reporting. 
 

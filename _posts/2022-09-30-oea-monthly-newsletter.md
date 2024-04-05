@@ -11,7 +11,7 @@ image: /assets/imgs/posts/img_aug_sep_2022_newsletter.png
 
 Open Education Analytics (OEA) is a community of education systems and tech partners, coordinated by Microsoft Education, collaborating to develop open source data analytics solutions for the education sector built on Azure Synapse Analytics and PowerBI.  
 
-- OEA GitHub Repository: <a href="https://github.com/microsoft/OpenEduAnalytics" target="_blank">https://github.com/microsoft/OpenEduAnalytics</a>
+- OEA GitHub Repository: <a href="https://github.com/OpenEducationAnalytics/OpenEduAnalytics" target="_blank">https://github.com/OpenEducationAnalytics/OpenEduAnalytics</a>
 - OEA Website: <a href="https://openeducationanalytics.org" target="_blank">https://openeducationanalytics.org </a>
 - OEA YouTube Chanel: <a href="https://www.youtube.com/channel/UCojAPdH6vmb395HWP_2yUXg" target="_blank">aka.ms/OEAyoutube </a>
 - 5-min OEA Intro Video: <a href="https://www.youtube.com/watch?v=E0kmtQKRzTc" target="_blank">Using Data Analytics and AI to transform Education </a>
@@ -39,9 +39,9 @@ For technical implementation, we considered ways to structure the Dataverse Educ
 *Figure 1: Welcoming Dataverse to OEA*
 
 ##### Data Analytics and AI
-To make OEA technical assets applicable across different use cases in Azure Synapse environments, we created a first <a href="https://github.com/microsoft/OpenEduAnalytics/tree/main/schemas" target="_blank">OEA schema</a> to standardize education digital activity data. This “Plug and Play” approach with the <a href="https://github.com/microsoft/OpenEduAnalytics/tree/main/schemas/schema_catalog/Digital_Engagement_Schema" target="_blank">OEA Digital Engagement Schema</a> transforms any digital engagement data (such as Microsoft Education Insights or Clever data) into a single table aligned to the Caliper data standard. When OEA assets are built on this schema table (rather than the original data source), these assets can then be used in any OEA Synapse environment which also utilizes OEA schemas. 
+To make OEA technical assets applicable across different use cases in Azure Synapse environments, we created a first <a href="https://github.com/OpenEducationAnalytics/OpenEduAnalytics/tree/main/schemas" target="_blank">OEA schema</a> to standardize education digital activity data. This “Plug and Play” approach with the <a href="https://github.com/OpenEducationAnalytics/OpenEduAnalytics/tree/main/schemas/schema_catalog/Digital_Engagement_Schema" target="_blank">OEA Digital Engagement Schema</a> transforms any digital engagement data (such as Microsoft Education Insights or Clever data) into a single table aligned to the Caliper data standard. When OEA assets are built on this schema table (rather than the original data source), these assets can then be used in any OEA Synapse environment which also utilizes OEA schemas. 
 
-We have recently revised our existing modules (<a href="https://github.com/microsoft/OpenEduAnalytics/tree/main/modules/module_catalog/Microsoft_Education_Insights" target="_blank">Microsoft Education Insights</a> and <a href="https://github.com/microsoft/OpenEduAnalytics/tree/main/modules/module_catalog/Clever" target="_blank">Clever</a>), and packages (<a href="https://github.com/microsoft/OpenEduAnalytics/tree/main/packages/package_catalog/Digital_Equity_of_Access" target="_blank">Digital Equity of Access</a> and <a href="https://github.com/microsoft/OpenEduAnalytics/tree/main/packages/package_catalog/Predicting_Chronic_Absenteeism" target="_blank">Predicting Chronic Absenteeism</a>) to take advantage of this new Plug and Play approach. Please test them out and share your feedback!
+We have recently revised our existing modules (<a href="https://github.com/OpenEducationAnalytics/OpenEduAnalytics/tree/main/modules/module_catalog/Microsoft_Education_Insights" target="_blank">Microsoft Education Insights</a> and <a href="https://github.com/OpenEducationAnalytics/OpenEduAnalytics/tree/main/modules/module_catalog/Clever" target="_blank">Clever</a>), and packages (<a href="https://github.com/OpenEducationAnalytics/OpenEduAnalytics/tree/main/packages/package_catalog/Digital_Equity_of_Access" target="_blank">Digital Equity of Access</a> and <a href="https://github.com/OpenEducationAnalytics/OpenEduAnalytics/tree/main/packages/package_catalog/Predicting_Chronic_Absenteeism" target="_blank">Predicting Chronic Absenteeism</a>) to take advantage of this new Plug and Play approach. Please test them out and share your feedback!
 
 
 ##### Data Engineering
@@ -52,7 +52,7 @@ Refining our approach to OEA, we have distilled the OEA framework down to the co
 </div>
 *Figure 2: Refined technical approach to OEA*
 
-In line with these steps, there has been a restructuring of the <a href="https://github.com/microsoft/OpenEduAnalytics" target="_blank">OEA GitHub repository</a> to include 4 key elements to the OEA reference architecture: framework, modules, schemas, and packages. 
+In line with these steps, there has been a restructuring of the <a href="https://github.com/OpenEducationAnalytics/OpenEduAnalytics" target="_blank">OEA GitHub repository</a> to include 4 key elements to the OEA reference architecture: framework, modules, schemas, and packages. 
 
 
 ##### Plans for October/November

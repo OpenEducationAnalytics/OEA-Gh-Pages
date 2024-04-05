@@ -11,7 +11,7 @@ image: /assets/imgs/posts/img_august_2021_oea_newsletter.png
 
 Open Education Analytics (OEA) is a community of education systems, coordinated by Microsoft Education, collaborating to develop open-sourced data analytics solutions for the education sector built on Azure Synapse Analytics and PowerBI.
 
-- GitHub repository: <a href="https://github.com/microsoft/OpenEduAnalytics" target="_blank">https://github.com/microsoft/OpenEduAnalytics</a>
+- GitHub repository: <a href="https://github.com/OpenEducationAnalytics/OpenEduAnalytics" target="_blank">https://github.com/OpenEducationAnalytics/OpenEduAnalytics</a>
 - OEA Overview video: <a href="https://www.youtube.com/watch?v=efNYbS4sC4g" target="_blank">OEA Overview - YouTube</a>
 
 ##### OEA Communities
@@ -40,7 +40,7 @@ Please take a moment to explore the new site and share it with your organization
 
 ##### OEA Tech: Helping Education Systems Setup Their Modern Data Estate
 
-We are excited to announce the release of [v0.4 of the OEA architecture](https://github.com/microsoft/OpenEduAnalytics/releases/tag/v0.4) which comes with a number of improvements [(see list here)](https://github.com/microsoft/OpenEduAnalytics/releases/tag/v0.4) and are working to release v0.5 (targeting end of September), which will include test data generators, a well-defined module and package structure that includes guidance on specific criteria for submission of partner contributed assets, and an enhanced installation and administration CLI to facilitate initial setup as well as ongoing setup and maintenance of extension modules and packages. 
+We are excited to announce the release of [v0.4 of the OEA architecture](https://github.com/OpenEducationAnalytics/OpenEduAnalytics/releases/tag/v0.4) which comes with a number of improvements [(see list here)](https://github.com/OpenEducationAnalytics/OpenEduAnalytics/releases/tag/v0.4) and are working to release v0.5 (targeting end of September), which will include test data generators, a well-defined module and package structure that includes guidance on specific criteria for submission of partner contributed assets, and an enhanced installation and administration CLI to facilitate initial setup as well as ongoing setup and maintenance of extension modules and packages. 
 With the new version, we are taking additional steps to protect student identity by using the [best practices for GDPR and CCPA compliance using Delta Lake](https://docs.microsoft.com/en-us/azure/databricks/security/privacy/gdpr-delta). Delta Lake provides structured data management on top of the data lakes of education systems, hence providing a simplified, efficient and optimized way of removing personal information of students in response to GDPR and CCPA requests. We are using a one-way cryptographic hashing and salting to pseudonymize personal information. In addition, Delta Lake transaction log records details about every change made to the data providing a full audit trail of changes. The process of ingesting data into the lake and iteratively preparing, cleansing, and optimizing that data is represented in 3 stages that map to the Delta Lake's proposed stages of bronze, silver, and gold. 
 The new architecture provides enhanced framework functionality that simplifies the process of preparing and pseudonymizing data from new data sources by building on PySpark to establish a framework level of abstraction. In the end, all that is needed to be able to tap into the power of the framework is to specify the data schema of a new data source. 
 
